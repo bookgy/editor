@@ -7,44 +7,36 @@ publico: gerente | director-centro
 formato: problema-operativo
 ---
 
-# El problema de muchas promociones no es el descuento. Son las excepciones.
+# Una promoción sencilla por fuera necesita estar muy bien definida por dentro
 
 ## Texto
 
-El problema de muchas promociones en un centro deportivo no es el descuento.
+Las promociones suelen empezar con una idea bastante sencilla:
 
-Son las excepciones.
+“Un 20 % esta semana.”
 
-“Este socio sí.”  
-“Esta clase no.”  
-“Solo hasta el viernes.”  
-“Era un 20 %, no 20 €.”
+Y poco después llegan las preguntas.
 
-Cuando esas condiciones dependen de que recepción, el gerente o una persona concreta las recuerde, la promoción deja de ser sencilla.
+¿Vale para todas las clases?  
+¿También para antiguos socios?  
+¿Hasta el viernes o hasta el domingo?  
+¿Era un 20 % o 20 €?
 
-Y aparece un problema muy habitual en la operativa: **las reglas existen, pero están en la cabeza del equipo.**
+Ahí es cuando una campaña que parecía fácil empieza a depender de que alguien recuerde todos los detalles.
 
-Antes de lanzar una campaña, hay cuatro preguntas que deberían quedar resueltas desde el principio:
+La forma de evitarlo no tiene demasiado misterio: **cerrar las reglas antes de comunicar la promoción**.
 
-- ¿A quién se aplica?
-- ¿Sobre qué servicios, clases o productos?
-- ¿Qué descuento corresponde?
-- ¿Hasta cuándo está vigente?
+Quién puede utilizarla.  
+En qué servicios, clases o productos.  
+Qué descuento se aplica.  
+Durante qué fechas.
 
-Cuanto más claras estén esas cuatro respuestas, menos comprobaciones necesita hacer el equipo después.
+Y si utilizas un código, que el código sea solo eso: una forma sencilla de identificar la campaña, no el lugar donde intentas meter toda la lógica.
 
-En Agendic esa lógica se separa de forma sencilla:
+Para el socio, `VERANO20`.
 
-**la promoción contiene las reglas y el cupón es únicamente el código que comunicas.**
+Para el equipo, unas reglas claras detrás.
 
-Por ejemplo, puedes lanzar `VERANO20` para un grupo concreto de socios, aplicarlo a determinados servicios o clases, definir un 20 % de descuento y limitar la promoción a unas fechas concretas.
+Parece un detalle pequeño, pero cambia bastante la operativa de recepción. Menos interpretaciones, menos excepciones explicadas sobre la marcha y menos “espera, que lo pregunto”.
 
-El socio solo necesita recordar un código.
-
-Tu equipo necesita tener claras las reglas que hay detrás.
-
-Porque una promoción bien gestionada no consiste solo en decidir cuánto descontar.
-
-Consiste en que **nadie tenga que preguntar cómo funcionaba cada vez que un socio quiere utilizarla**.
-
-¿Cuántas promociones de tu centro siguen dependiendo de que alguien recuerde sus condiciones?
+Una promoción sencilla por fuera necesita estar muy bien definida por dentro.
