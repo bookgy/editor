@@ -1,6 +1,6 @@
 ---
 name: entrada-linkedin
-description: "Crear publicaciones de LinkedIn de Agendic orientadas principalmente a centros deportivos, gimnasios, Pilates, yoga, entrenamiento, boxeo y negocios fitness. Usar para convertir una semilla existente en contenido experto dirigido a un perfil concreto del centro, partiendo de dolores reales y explicando soluciones de gestión de forma genérica, fluida y útil. Por defecto, no mencionar Agendic ni presentar el producto como solución dentro del texto; la marca está implícita en el emisor."
+description: "Crear publicaciones de LinkedIn de Agendic para centros deportivos, gimnasios, Pilates, yoga, entrenamiento, boxeo y negocios fitness. Usar para convertir una semilla existente en contenido experto dirigido a un perfil concreto, con un dolor reconocible, una solución de gestión genérica y una profundidad elegida de forma intencionada. Permitir variantes breves, desarrolladas, narrativas, metodológicas o de caso sin convertirlas en plantillas. Por defecto, no mencionar Agendic ni presentar el producto como solución; la marca está implícita en el emisor."
 ---
 
 # Entrada LinkedIn
@@ -9,14 +9,15 @@ Crear publicaciones nativas de LinkedIn que posicionen a Agendic como una marca 
 
 La marca está en quién publica.
 
-El contenido debe hacer que el lector piense:
+Buscar que el lector piense, en este orden:
 
 1. `Esto me pasa.`
-2. `Entienden perfectamente cómo funciona mi centro.`
-3. `La forma de resolverlo tiene sentido.`
-4. `Quiero seguir leyendo a esta gente.`
+2. `Están hablando de alguien como yo.`
+3. `Entienden por qué este problema importa.`
+4. `La forma de resolverlo tiene sentido.`
+5. `Esta gente sabe de lo que habla.`
 
-No buscar que el lector piense inmediatamente en software, demo o funcionalidad.
+No buscar que piense inmediatamente en software, demo o funcionalidad.
 
 ## Referencias obligatorias
 
@@ -30,25 +31,25 @@ Leer:
 
 ## Posicionamiento específico del canal
 
-En LinkedIn, el posicionamiento editorial principal de Agendic es el sector fitness y deportivo:
+El posicionamiento principal es fitness y deporte:
 
 - gimnasios;
 - centros deportivos;
-- estudios de Pilates;
-- estudios de yoga;
+- Pilates;
+- yoga;
 - entrenamiento personal;
 - centros boutique;
-- boxes y centros de entrenamiento funcional;
+- boxes y entrenamiento funcional;
 - boxeo y disciplinas similares;
 - otros negocios deportivos con operativa comparable.
 
-Aunque una semilla sea `General`, adaptar por defecto el contenido de LinkedIn a una situación reconocible del sector fitness cuando los hechos permitan hacerlo.
+Aunque una semilla sea `General`, adaptar por defecto el contenido a una situación reconocible del sector cuando los hechos lo permitan.
 
 No inventar funcionalidades ni comportamientos específicos del sector.
 
 ## La marca es el emisor, no el argumento
 
-Por defecto, **no mencionar `Agendic` en el cuerpo de una publicación de LinkedIn**.
+Por defecto, **no mencionar `Agendic` en el cuerpo**.
 
 No escribir:
 
@@ -58,164 +59,202 @@ No escribir:
 
 > Con Agendic puedes...
 
-En su lugar, explicar el problema y la forma de resolverlo:
+Explicar el problema y la forma de resolverlo de manera genérica.
 
-> Antes de lanzar una promoción, deja cerradas cuatro reglas: quién puede utilizarla, a qué se aplica, qué descuento tiene y hasta cuándo está vigente.
-
-El conocimiento del producto sirve internamente para saber que la solución propuesta es realista y aplicable. No obliga a nombrar la herramienta que la implementa.
+El conocimiento del producto sirve internamente para validar que la solución propuesta es realista. No obliga a nombrar la herramienta.
 
 ### Excepción
 
-Mencionar Agendic o una funcionalidad explícitamente solo cuando el usuario pida una publicación de producto, una novedad, un lanzamiento, una explicación de una capacidad concreta o exista otra razón editorial expresa.
+Mencionar Agendic o una funcionalidad solo cuando el usuario pida expresamente una publicación de producto, novedad, lanzamiento o explicación funcional.
 
-No introducir la marca por costumbre al final del post.
+No introducir la marca por costumbre al final.
 
 ## De funcionalidad a conocimiento
 
-Una semilla puede nacer de una funcionalidad, pero el post de LinkedIn no debe parecer una explicación de esa funcionalidad.
-
 Transformar:
 
-**funcionalidad confirmada → problema que resuelve → principio de gestión → solución genérica → ejemplo reconocible**
+**funcionalidad confirmada → dolor concreto → principio de gestión → solución genérica → ejemplo reconocible**
 
-Ejemplo:
+La funcionalidad valida el conocimiento. El conocimiento es lo que se publica.
 
-- conocimiento interno: existen promociones con destinatarios, conceptos, descuento, fechas y cupones;
-- contenido editorial: una promoción funciona mejor cuando sus reglas están definidas antes de comunicarla;
-- post: explicar qué reglas deberían quedar cerradas y qué ocurre cuando viven solo en la cabeza del equipo.
+No enumerar opciones del software salvo que sean imprescindibles para explicar el criterio.
 
-No enumerar opciones del software salvo que sean necesarias para explicar el criterio.
+## Un lector concreto y un dolor concreto
 
-## Elegir primero a quién hablamos
+Cada publicación debe tener **un perfil principal** y **un dolor principal**.
 
-Cada publicación debe tener **un perfil principal**. No escribir para `el gimnasio` como una entidad abstracta.
+No basta con declarar `publico: gerente` en los metadatos. El texto debe contener suficientes señales para que ese gerente pueda reconocerse.
+
+No escribir para `el gimnasio` como una entidad abstracta.
+
+Antes de redactar completar mentalmente:
+
+> Este post habla a [perfil] que está viviendo [situación concreta] y le duele [consecuencia concreta].
+
+Si la frase solo puede completarse con expresiones genéricas como `mejorar la gestión`, `tener más control` o `ser más eficiente`, el dolor todavía no está suficientemente definido.
 
 ### CEO / propietario
 
 Dolores habituales:
 
-- rentabilidad;
-- crecimiento;
 - dependencia operativa;
-- control global;
-- recurrencia;
-- expansión a nuevas sedes;
-- eficiencia;
-- tiempo para pensar estratégicamente.
+- falta de visión global;
+- crecimiento que aumenta complejidad;
+- poco tiempo estratégico;
+- dificultad para mantener procesos consistentes entre sedes;
+- falta de control sobre áreas clave.
 
 ### Gerente
 
 Dolores habituales:
 
-- organización del centro;
-- equipo;
-- incidencias;
-- ocupación;
-- cobros;
-- retención;
-- objetivos;
-- procesos y seguimiento.
+- equipo que interpreta reglas de forma distinta;
+- incidencias repetidas;
+- promociones o procesos demasiado amplios para el objetivo real;
+- ocupación y horarios difíciles de ordenar;
+- cobros que requieren seguimiento manual;
+- procesos que dependen de una persona;
+- falta de seguimiento de decisiones o tareas.
 
 ### Director de centro o sede
 
 Dolores habituales:
 
-- operación diaria;
-- horarios;
-- clases;
-- salas y recursos;
+- cambios de horarios;
+- coordinación de clases, salas y entrenadores;
 - sustituciones;
 - accesos;
 - atención al socio;
-- coordinación del equipo.
+- reglas operativas que no están suficientemente claras.
 
 ### Recepción / administración
 
 Dolores habituales:
 
+- preguntas repetitivas;
 - interrupciones;
-- llamadas y consultas repetitivas;
+- pagos y comprobaciones;
 - reservas y cambios;
-- pagos;
-- incidencias;
-- comprobaciones manuales;
-- información dispersa.
+- excepciones que hay que consultar;
+- información dispersa;
+- decisiones que dependen de recordar detalles.
 
 ### Entrenador / profesional
 
 Dolores habituales:
 
+- tareas administrativas;
 - agenda;
 - asistencia;
-- información de sus clientes;
+- falta de contexto del cliente;
 - seguimiento;
-- comunicación;
-- tareas administrativas que restan tiempo al trabajo con personas.
+- comunicación que quita tiempo al trabajo con personas.
 
-Elegir otros perfiles cuando la historia lo requiera, pero mantener un lector principal claro.
+Elegir otros perfiles cuando la historia lo requiera.
 
-## Tipos de publicación
+## Variantes editoriales
 
-### 1. Problema operativo
+No hacer todas las publicaciones iguales.
 
-Partir de una fricción cotidiana que el lector reconozca inmediatamente.
+Elegir conscientemente una variante según la idea, el momento y el material disponible.
 
-### 2. Idea o tesis de gestión
+### 1. Insight breve
 
-Defender una idea útil y con criterio sobre cómo gestionar mejor un centro.
+Una observación muy concreta y útil.
 
-### 3. Caso de uso
+Puede ser corta, pero debe tener:
 
-Construir una situación concreta y plausible que permita visualizar una mejor forma de trabajar.
+- lector reconocible;
+- dolor concreto;
+- idea suficiente por sí misma.
+
+No confundir brevedad con generalidad.
+
+### 2. Tesis desarrollada
+
+Partir de un gancho fuerte y desarrollar:
+
+- la situación;
+- por qué importa;
+- dónde aparece la fricción;
+- el criterio para resolverla;
+- un ejemplo o consecuencia práctica.
+
+Adecuada cuando el tema necesita demostrar conocimiento y no cabe en tres párrafos.
+
+### 3. Escena operativa
+
+Abrir con una situación que podría ocurrir hoy en un centro y construir el aprendizaje desde ella.
 
 ### 4. Consejo o método
 
-Enseñar una forma práctica de analizar, organizar o resolver un problema.
+Dar un pequeño marco de decisión, preguntas, criterios o pasos que el lector pueda aplicar.
 
-### 5. Contexto del sector
+### 5. Caso de uso ilustrativo
 
-Explicar situaciones, tendencias, prácticas o cambios relevantes cuando existan fuentes suficientes.
+Construir una situación plausible sin presentarla como caso real.
 
 ### 6. Historia real
 
-Utilizar experiencias, clientes o situaciones reales únicamente cuando exista información validada y autorizada.
+Utilizar únicamente información validada y autorizada.
 
-### 7. Producto explícito
+### 7. Contexto sectorial
 
-Reservar para cuando el usuario pida expresamente hablar de una novedad, funcionalidad, lanzamiento o producto.
+Explicar una práctica, cambio o problema del sector cuando existan fuentes suficientes.
 
-No utilizar este formato como salida por defecto de una semilla funcional.
+### 8. Producto explícito
+
+Reservar para cuando el usuario pida expresamente hablar de producto.
+
+Las variantes no son plantillas cerradas. Sirven para evitar que todos los posts tengan el mismo ritmo y estructura.
+
+## Profundidad
+
+Elegir la longitud de forma intencionada:
+
+- `breve`: una idea muy concreta que no necesita más desarrollo;
+- `media`: situación + dolor + criterio + consecuencia;
+- `desarrollada`: profundiza en el problema, sus efectos operativos y la forma de resolverlo con ejemplos o matices.
+
+No fijar una longitud por número de palabras.
+
+Regla: **terminar cuando la idea está suficientemente desarrollada, no cuando simplemente ya puede entenderse**.
+
+Si el gancho abre una tensión importante, no resolverla en dos frases genéricas.
+
+Un post largo no es mejor por ser largo. Un post corto no es mejor por ser ágil.
 
 ## Flujo
 
-1. Revisar la semilla, la entrada principal y los LinkedIn ya existentes.
-2. Elegir un único perfil principal al que dirigir la publicación.
-3. Identificar una situación o dolor que ese perfil reconozca sin necesidad de explicar demasiado contexto.
-4. Formular una **tesis editorial**: la idea que queremos que recuerde al día siguiente.
-5. Traducir la capacidad de la semilla a una solución genérica: una regla, proceso, criterio, automatización, configuración o forma de trabajar.
-6. Elegir el tipo de publicación.
-7. Abrir con una observación, contraste, escena o frase con criterio.
-8. Desarrollar el problema con ejemplos cotidianos y lenguaje del sector.
-9. Explicar la solución con naturalidad y sin convertirla en un tutorial de software.
-10. No mencionar Agendic ni la funcionalidad concreta salvo petición expresa.
-11. Elegir el cierre más natural: conclusión, recomendación, comprobación o pregunta de experiencia cuando aporte conversación real.
-12. Asignar el siguiente número libre y guardar como `linkedin-NNN.md`.
+1. Revisar semilla, entrada principal y LinkedIn existentes.
+2. Elegir un único perfil principal.
+3. Identificar una situación específica que ese perfil reconoce.
+4. Definir el dolor principal y su consecuencia operativa.
+5. Formular la idea que debe recordar al día siguiente.
+6. Elegir variante y profundidad.
+7. Traducir la capacidad de la semilla a una solución genérica: regla, proceso, criterio, automatización, configuración o forma de trabajar.
+8. Abrir con una observación, contraste, escena o frase con criterio.
+9. Desarrollar el dolor con suficiente detalle para demostrar comprensión real.
+10. Explicar la solución con naturalidad, sin convertirla en tutorial de software.
+11. No mencionar Agendic salvo petición expresa.
+12. Elegir el cierre más natural.
+13. Guardar como el siguiente `linkedin-NNN.md`.
 
-## Estructura preferida
+## Gancho
 
-La estructura debe sentirse natural, no visible.
+El gancho debe ser directo cuando la idea lo permita.
 
-Como guía interna:
+Puede funcionar bien:
 
-**situación → tensión → idea → solución → ejemplo → cierre**
+- una contradicción;
+- una frase que cuestione una práctica habitual;
+- una escena reconocible;
+- una consecuencia que normalmente no se verbaliza;
+- una pregunta real.
 
-O:
+Un buen gancho no compensa un desarrollo genérico.
 
-**escena cotidiana → qué está fallando → criterio para resolverlo → consecuencia práctica**
-
-No escribir encabezados dentro del post siguiendo esta estructura.
-
-No convertir cada paso en un párrafo telegráfico.
+Después del gancho, aterrizar rápido en **quién vive el problema, cuándo aparece y qué le obliga a hacer**.
 
 ## Tono y ritmo
 
@@ -232,30 +271,25 @@ Buscar una voz:
 
 La contundencia debe estar en la observación, no en sonar solemne.
 
-Preferir frases que parecen dichas por alguien que conoce bien el sector frente a formulaciones de consultoría.
+Preferir lenguaje de alguien que conoce bien el sector frente a formulaciones de consultoría.
 
-Evitar que todos los posts suenen como:
+Variar el ritmo entre publicaciones.
 
-> problema → gran tesis → lista → producto → pregunta final.
+Combinar frases cortas con párrafos más desarrollados.
 
-Variar el ritmo.
+Utilizar listas solo cuando la situación las pida.
 
-Combinar frases cortas con párrafos algo más desarrollados.
-
-Utilizar listas solo cuando la propia situación las pide.
-
-No abusar de negritas, sentencias grandilocuentes ni preguntas retóricas.
+No abusar de negritas, grandes sentencias ni preguntas retóricas.
 
 ## Fluidez
 
-El texto debe poder leerse casi como una conversación profesional.
+El texto debe poder leerse como una conversación profesional.
 
 Evitar transiciones rígidas como:
 
-- `El problema es...` repetido varias veces;
+- `El problema es...` repetido;
 - `La solución es...`;
 - `En conclusión...`;
-- `Por tanto...`;
 - `Aquí entra...`;
 - `Y es aquí donde...`.
 
@@ -263,62 +297,48 @@ Preferir que una idea lleve naturalmente a la siguiente.
 
 No explicar una idea dos veces con palabras distintas.
 
-## Regla de la solución genérica
+## Solución genérica
 
-La solución debe ser útil incluso para alguien que no usa Agendic.
+La solución debe ser útil incluso para alguien que no utiliza Agendic.
 
 Puede expresarse como:
 
 - definir una regla;
 - ordenar un proceso;
 - automatizar una tarea;
-- centralizar una información;
+- centralizar información;
 - establecer un criterio;
 - configurar una excepción;
 - medir un indicador;
 - revisar una rutina;
 - eliminar un paso manual.
 
-La semilla garantiza que existe una forma realista de resolverlo. LinkedIn comunica el aprendizaje.
+No quedarse en `hay que organizarse mejor`. Dar criterio suficiente para que el lector entienda **qué cambiaría**.
 
-## Regla de la frase memorable
+## Autoridad
 
-Buscar una idea que tenga personalidad, pero no fabricar una frase de póster en cada publicación.
+Demostrar experiencia mediante detalles precisos del día a día.
 
-Una buena frase memorable suele ser consecuencia natural del post.
+No decir que somos expertos: hacer que se note.
 
-Ejemplo:
+Ser contundente con ideas y prudente con hechos.
 
-> Una promoción sencilla por fuera necesita estar muy bien definida por dentro.
-
-No escribir frases grandilocuentes únicamente para parecer contundente.
+No inventar estadísticas, benchmarks, porcentajes, tendencias, resultados ni testimonios.
 
 ## CTA y cierre
 
-Por defecto, **no incluir CTA comercial**.
+Por defecto, no incluir CTA comercial.
 
-El post puede terminar simplemente cuando la idea queda cerrada.
+Puede cerrar con:
 
-También puede cerrar con:
-
-- una observación final;
+- una conclusión;
 - una recomendación;
-- una pequeña comprobación que el lector pueda hacer en su centro;
-- una pregunta genuina sobre su experiencia cuando esa respuesta pueda enriquecer la conversación entre profesionales.
+- una comprobación práctica;
+- una pregunta genuina sobre experiencia real.
 
 ### Cierre participativo
 
-Cuando el tema se preste a compartir experiencia real, preferir una pregunta **concreta, fácil de responder y ligada a la operativa del lector**.
-
-La pregunta debe invitar a contar algo que realmente le haya ocurrido o que gestione hoy, no pedir una opinión abstracta.
-
-Preferir:
-
-> ¿Qué consulta se repite más veces en vuestra recepción?
-
-> Si gestionáis varias sedes, ¿qué proceso os cuesta más mantener igual en todas?
-
-> Los que trabajáis con bonos, ¿qué parte de la gestión os genera más fricción?
+Cuando el tema se preste a compartir experiencia, preferir una pregunta concreta y fácil de responder desde la operativa del lector.
 
 Evitar:
 
@@ -326,81 +346,21 @@ Evitar:
 
 > ¿Estás de acuerdo?
 
-> ¿Te pasa?
+`Os leemos` puede utilizarse cuando suene natural, pero no como coletilla fija.
 
-> Déjanos tu opinión en comentarios.
-
-`Os leemos`, `Os leemos en comentarios` o fórmulas equivalentes pueden utilizarse cuando suenen naturales, pero no convertirlas en una coletilla fija.
-
-No cerrar todas las publicaciones con pregunta. Alternar cierres participativos con conclusiones, recomendaciones y reflexiones para mantener variedad y credibilidad.
-
-Evitar:
-
-- `Pide una demo`;
-- `Descubre Agendic`;
-- `Conoce nuestra solución`;
-- rutas de menú;
-- enlaces de producto;
-- preguntas fabricadas solo para generar comentarios.
-
-## Lenguaje fitness
-
-Usar vocabulario del sector cuando ayude al reconocimiento:
-
-- centro;
-- sede;
-- socio;
-- abonado;
-- alumno, cuando encaje mejor en estudios;
-- clase;
-- sesión;
-- cuota;
-- bono;
-- entrenador;
-- recepción;
-- ocupación;
-- acceso;
-- baja;
-- renovación;
-- retención;
-- altas;
-- horarios;
-- sala;
-- recurso.
-
-Elegir términos según el negocio. No llamar `socio` a todo lector de Pilates o yoga si `alumno` o `cliente` resulta más natural.
-
-## Autoridad y evidencia
-
-Demostrar experiencia mediante situaciones precisas y observaciones reconocibles.
-
-No afirmar que somos expertos: hacer que se note.
-
-Ser contundente con ideas y prudente con hechos.
-
-Permitido:
-
-> Si una promoción cambia según quién esté en recepción, las reglas no están suficientemente definidas.
-
-No permitido sin evidencia:
-
-> El 40 % de los errores en promociones se produce en recepción.
-
-No inventar estadísticas, benchmarks, porcentajes, tendencias, resultados ni testimonios.
+Alternar preguntas con otros tipos de cierre.
 
 ## Diferenciación entre publicaciones
 
-Antes de crear un nuevo `linkedin-NNN.md`, revisar los anteriores.
+Una nueva pieza debe cambiar de forma relevante alguno de estos elementos:
 
-Una nueva pieza debe cambiar al menos uno de estos elementos de forma relevante:
-
-- perfil al que habla;
+- perfil;
 - dolor;
 - tesis;
-- tipo de publicación;
+- variante;
+- profundidad;
 - ejemplo;
 - momento de negocio;
-- aprendizaje;
 - tratamiento creativo.
 
 Cambiar solo el titular no crea una nueva publicación.
@@ -409,18 +369,20 @@ Cambiar solo el titular no crea una nueva publicación.
 
 Antes de guardar, comprobar:
 
-1. ¿Está claro a qué perfil del centro hablamos?
-2. ¿Ese perfil puede reconocerse en las primeras líneas?
-3. ¿El contenido sería útil aunque lo publicara una persona y no una empresa de software?
-4. ¿Explicamos cómo abordar el problema sin convertirlo en una explicación de producto?
-5. ¿Hemos evitado mencionar Agendic por defecto?
-6. ¿La solución puede entenderse de forma genérica?
-7. ¿Demostramos experiencia mediante detalles reales del día a día?
-8. ¿Hay una sola idea principal?
-9. ¿Suena fluido, ágil y natural?
-10. ¿Todos los datos y hechos están confirmados?
-11. Si cerramos con pregunta, ¿invita a compartir una experiencia concreta y no una opinión genérica?
-12. ¿Estamos variando los cierres en lugar de repetir siempre pregunta + `Os leemos`?
+1. ¿Puedo nombrar a un perfil principal?
+2. ¿Puedo describir su dolor en una frase concreta?
+3. ¿Ese perfil se reconoce en el texto, no solo en los metadatos?
+4. ¿Después del gancho aterrizamos en una situación específica?
+5. ¿El desarrollo demuestra conocimiento o se queda en generalidades?
+6. ¿La profundidad elegida está justificada por la idea?
+7. ¿Si el post es breve, sigue siendo específico y completo?
+8. ¿Si es desarrollado, cada párrafo aporta algo nuevo?
+9. ¿La solución es genérica pero accionable?
+10. ¿Hemos evitado mencionar Agendic por defecto?
+11. ¿Suena fluido, ágil y natural?
+12. ¿Todos los datos y hechos están confirmados?
+13. ¿El cierre es natural y no una venta forzada?
+14. Si cerramos con pregunta, ¿invita a compartir experiencia concreta?
 
 ## Metadatos
 
@@ -432,5 +394,7 @@ canal: linkedin
 contenido: NNN
 estado: borrador
 publico: perfil principal
-formato: problema-operativo | tesis-gestion | caso-uso | consejo-metodo | historia-real | contexto-sector | producto-explicito
+dolor: descripcion breve del dolor
+formato: insight-breve | tesis-desarrollada | escena-operativa | consejo-metodo | caso-uso | historia-real | contexto-sector | producto-explicito
+profundidad: breve | media | desarrollada
 ```
