@@ -3,37 +3,48 @@ semilla_id: 2026-09-001
 canal: linkedin
 contenido: 001
 estado: borrador
+publico: gerente | director-centro
+formato: problema-operativo
 ---
 
-# Promociones con más control
+# El problema de muchas promociones no es el descuento. Son las excepciones.
 
 ## Texto
 
-Muchas promociones empiezan siendo sencillas y terminan convirtiéndose en una cadena de comprobaciones:
+El problema de muchas promociones en un centro deportivo no es el descuento.
 
-“¿Este cliente puede usarla?”  
-“¿Este servicio entra?”  
-“¿Hasta qué día está activa?”  
-“¿Era un 20 % o un importe fijo?”
+Son las excepciones.
 
-El problema no es lanzar un descuento. El problema es tener que recordar sus condiciones cada vez que alguien quiere utilizarlo.
+“Este socio sí.”  
+“Esta clase no.”  
+“Solo hasta el viernes.”  
+“Era un 20 %, no 20 €.”
 
-En Agendic, la lógica se separa de forma clara:
+Cuando esas condiciones dependen de que recepción, el gerente o una persona concreta las recuerde, la promoción deja de ser sencilla.
 
-**La promoción contiene las reglas. El cupón es el código.**
+Y aparece un problema muy habitual en la operativa: **las reglas existen, pero están en la cabeza del equipo.**
 
-Primero puedes definir a quién afecta la promoción, sobre qué servicios, clases, instalaciones o artículos se aplica, qué tipo de descuento quieres ofrecer y durante qué periodo estará vigente.
+Antes de lanzar una campaña, hay cuatro preguntas que deberían quedar resueltas desde el principio:
 
-Después, si quieres comunicarla mediante un código, puedes asociarle uno o varios cupones.
+- ¿A quién se aplica?
+- ¿Sobre qué servicios, clases o productos?
+- ¿Qué descuento corresponde?
+- ¿Hasta cuándo está vigente?
 
-Por ejemplo, puedes publicar `VERANO20` y mantener detrás unas condiciones concretas: 20 % de descuento, solo para determinados servicios, durante unas fechas concretas y dirigido al grupo de clientes que hayas definido.
+Cuanto más claras estén esas cuatro respuestas, menos comprobaciones necesita hacer el equipo después.
 
-El cliente recuerda un código sencillo.
+En Agendic esa lógica se separa de forma sencilla:
 
-Tu equipo mantiene el control sobre las reglas de la campaña.
+**la promoción contiene las reglas y el cupón es únicamente el código que comunicas.**
 
-Porque una promoción bien gestionada no consiste solo en decidir cuánto descontar. También consiste en decidir **a quién, sobre qué y durante cuánto tiempo**.
+Por ejemplo, puedes lanzar `VERANO20` para un grupo concreto de socios, aplicarlo a determinados servicios o clases, definir un 20 % de descuento y limitar la promoción a unas fechas concretas.
 
-Si todavía gestionas algunas promociones con notas, mensajes o comprobaciones manuales, quizá merezca la pena revisar cómo tienes configurado este proceso.
+El socio solo necesita recordar un código.
 
-En Agendic puedes hacerlo desde **Marketing → Herramientas Comerciales → Promociones y Descuentos**.
+Tu equipo necesita tener claras las reglas que hay detrás.
+
+Porque una promoción bien gestionada no consiste solo en decidir cuánto descontar.
+
+Consiste en que **nadie tenga que preguntar cómo funcionaba cada vez que un socio quiere utilizarla**.
+
+¿Cuántas promociones de tu centro siguen dependiendo de que alguien recuerde sus condiciones?
