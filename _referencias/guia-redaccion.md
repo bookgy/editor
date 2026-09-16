@@ -46,8 +46,7 @@ Escribir para que una persona ocupada entienda rápidamente:
 
 - qué situación estamos describiendo;
 - por qué le importa;
-- qué puede hacer Agendic;
-- qué cambia para su empresa;
+- qué cambia si la gestiona mejor;
 - qué puede hacer después.
 
 La claridad tiene prioridad sobre la creatividad.
@@ -57,8 +56,6 @@ La utilidad tiene prioridad sobre el entusiasmo.
 La precisión tiene prioridad sobre una promesa comercial más fuerte.
 
 # 2. Voz y tono
-
-## Voz estable
 
 La voz de Agendic es:
 
@@ -71,31 +68,11 @@ La voz de Agendic es:
 - cercana;
 - conocedora de la operativa real.
 
-Agendic habla como una empresa que ha visto muchas formas de trabajar y sabe que el problema rara vez es “no tener otra funcionalidad”, sino coordinar el día a día sin perder tiempo ni control.
+La marca debe sonar como alguien que ha visto muchas formas de trabajar y sabe dónde aparecen las fricciones del día a día.
 
-## Tono variable
+No sonar académicos, corporativos ni grandilocuentes.
 
-La voz no cambia, pero el tono sí puede adaptarse.
-
-### Cuando presentamos una capacidad
-
-Didáctico, positivo y concreto.
-
-### Cuando explicamos una mejora
-
-Útil y sobrio. No exagerar algo pequeño.
-
-### Cuando hablamos de una obligación o cambio normativo
-
-Calmado, preciso y sin alarmismo.
-
-### Cuando explicamos una incidencia o limitación
-
-Claro, responsable y orientado a resolver.
-
-### Cuando publicamos en redes
-
-Más ligero y conversacional, sin perder precisión.
+En redes, especialmente LinkedIn, buscar más ligereza, agilidad y naturalidad sin perder criterio.
 
 # 3. A quién escribir
 
@@ -111,263 +88,154 @@ Pensar en alguien que puede estar:
 - intentando entender qué ha pasado;
 - tomando una decisión de negocio.
 
-Hablar principalmente de:
-
-- `tu negocio`;
-- `tu equipo`;
-- `tus clientes`;
-- `tu agenda`;
-- `tus reservas`;
-- `tus cobros`;
-
-cuando sea natural.
-
-Evitar centrar cada frase en “Agendic”, “nosotros” o “nuestra plataforma”.
-
-El protagonista es el trabajo de la empresa.
+El protagonista es el trabajo de la empresa, no Agendic.
 
 # 4. Antes de redactar
 
-No empezar a escribir hasta poder completar mentalmente esta frase:
+No empezar a escribir hasta poder responder:
 
-> Esta pieza es útil para [tipo de empresa o situación] porque le ayuda a [cambio concreto] mediante [capacidad confirmada].
+- ¿a quién hablo?
+- ¿qué situación reconoce?
+- ¿qué dolor o necesidad hay detrás?
+- ¿qué idea quiero que recuerde?
+- ¿cómo se resuelve de forma práctica?
 
-Comprobar también:
-
-- dolor principal;
-- idea principal;
-- beneficio principal;
-- ejemplo principal;
-- siguiente paso.
-
-Si aparecen tres dolores, cinco beneficios y siete funcionalidades, todavía no existe un enfoque editorial suficientemente claro.
+Si aparecen demasiados dolores, beneficios o capacidades, falta enfoque.
 
 # 5. Orden de la información
 
-Aplicar una jerarquía de información.
-
 Poner primero lo que el lector necesita para decidir si debe seguir leyendo.
 
-Orden preferido:
+Orden habitual:
 
 1. situación reconocible;
-2. consecuencia o fricción;
-3. posibilidad de mejorarla;
-4. capacidad de Agendic;
-5. beneficio;
-6. ejemplo;
-7. detalles necesarios;
-8. acción.
+2. fricción o consecuencia;
+3. idea o criterio;
+4. forma de resolverlo;
+5. ejemplo;
+6. acción, solo cuando aporte valor.
 
-No esconder la idea principal detrás de una introducción corporativa.
+No esconder la idea detrás de una introducción corporativa.
 
 # 6. Cómo abrir una pieza
 
-Una buena apertura suele empezar por uno de estos elementos:
+Una buena apertura puede empezar por:
 
-## Problema reconocible
+- una escena cotidiana;
+- una pregunta real;
+- una contradicción;
+- una observación con criterio;
+- una consecuencia que suele pasar desapercibida;
+- un resultado deseado.
 
-> Cuando las reservas llegan por varios canales, mantener la agenda bajo control se complica rápido.
-
-## Tarea repetitiva
-
-> Recordar una a una las próximas citas no debería ocupar parte de cada jornada.
-
-## Pregunta real
-
-> ¿Cuántas veces consulta tu equipo dos herramientas para responder una sola duda de un cliente?
-
-## Resultado deseado
-
-> Tener todos los pagos de un cliente en contexto simplifica mucho una conversación en recepción.
-
-## Contraste
-
-> Una promoción no sirve de mucho si luego hay que comprobar manualmente quién puede utilizarla.
-
-Evitar aperturas como:
+Evitar:
 
 - “Nos complace anunciar…”;
 - “En Agendic seguimos innovando…”;
 - “Tenemos una gran novedad…”;
-- “Como líderes en…”;
-- “Hoy queremos hablarte de…”.
-
-Estas fórmulas hablan de la empresa antes de explicar por qué debería importarle al lector.
+- “Hoy queremos hablarte de…”;
+- introducciones genéricas que podrían pertenecer a cualquier marca.
 
 # 7. Titulares
 
-El titular debe facilitar una decisión: “esto me interesa” o “esto no es para mí”.
+Priorizar problemas, situaciones, resultados o ideas reconocibles.
 
-Priorizar:
+El titular debe ayudar al lector a saber si aquello le afecta.
 
-- situaciones;
-- problemas;
-- resultados;
-- preguntas;
-- cambios de forma de trabajar.
+No utilizar fórmulas de manera automática.
 
-Ejemplos de estructura:
-
-- `Menos [fricción], más [resultado]`
-- `Cómo [resultado] sin [fricción]`
-- `Cuando [situación], [solución o cambio]`
-- `¿Todavía [tarea manual]?`
-- `[Resultado] sin cambiar de herramienta`
-- `Una forma más sencilla de [tarea]`
-
-No utilizar fórmulas como receta automática. El titular debe sonar natural.
-
-Un nombre de funcionalidad puede aparecer en el titular cuando:
-
-- el lector ya conoce el concepto;
-- la novedad es precisamente esa funcionalidad;
-- ayuda a encontrar o identificar el contenido.
-
-Incluso entonces, intentar incorporar utilidad.
+Un nombre de funcionalidad puede aparecer cuando el contenido es explícitamente de producto, pero no debe ser el recurso por defecto.
 
 # 8. Cómo explicar una funcionalidad
 
-No escribir:
+No describir primero la herramienta.
+
+Traducirla a una forma de trabajar.
+
+En lugar de:
 
 > Agendic incorpora segmentación avanzada en promociones.
 
-Si puede escribirse:
+Preferir:
 
-> Puedes hacer que una promoción se aplique solo a los clientes o servicios que realmente te interesan.
+> Antes de lanzar una promoción, define a quién afecta y sobre qué servicios se aplica.
 
-La explicación ideal sigue esta secuencia:
-
-**capacidad → cambio en la forma de trabajar → beneficio → ejemplo**
-
-Ejemplo abstracto:
-
-> Puedes definir X. Así no tienes que hacer Y manualmente. Esto te permite Z. Por ejemplo…
-
-No hace falta seguir siempre la misma sintaxis. Lo importante es mantener la lógica.
+La capacidad del producto sirve para validar que la recomendación es realista. El contenido debe explicar el cambio útil para la empresa.
 
 # 9. Beneficios
 
-Un beneficio debe ser consecuencia razonable de una capacidad confirmada.
+Un beneficio debe ser consecuencia razonable de un comportamiento confirmado.
 
-Beneficios seguros cuando procedan:
+Beneficios normalmente seguros cuando procedan:
 
-- ahorrar pasos;
+- reducir pasos;
 - reducir trabajo manual;
 - disponer de más contexto;
 - centralizar información;
-- evitar tener que buscar en varias herramientas;
+- evitar búsquedas innecesarias;
 - reducir posibilidades de error;
 - organizar mejor una tarea;
 - facilitar seguimiento;
 - automatizar una acción;
 - tener más visibilidad.
 
-Beneficios que exigen evidencia adicional:
+Beneficios que requieren evidencia adicional:
 
 - aumentar ingresos;
 - aumentar conversiones;
-- reducir ausencias en un porcentaje concreto;
-- ahorrar un número concreto de horas;
+- ahorrar una cantidad concreta de tiempo;
+- reducir ausencias en un porcentaje;
 - conseguir más clientes;
-- mejorar la rentabilidad en una cantidad determinada.
-
-No sustituir evidencia por entusiasmo.
+- mejorar rentabilidad en una cifra determinada.
 
 # 10. Antes y después
 
-El contraste es una de las formas más claras de explicar valor.
+El contraste ayuda a explicar valor.
 
-## Antes
+**Antes:** describir una forma de trabajar que genera fricción.
 
-Describir la forma de trabajar que genera fricción.
+**Después:** describir qué cambia cuando se aplica una mejor regla, proceso o configuración.
 
-## Después
-
-Describir qué cambia cuando se utiliza la capacidad confirmada.
-
-Ejemplo:
-
-**Antes:** revisar manualmente quién tiene un pago pendiente antes de permitir una acción.
-
-**Después:** disponer de esa información conectada al proceso cuando Agendic tiene confirmada esa validación.
-
-El “después” no debe sugerir una automatización que la fuente no confirme.
+No sugerir automatizaciones o resultados que no estén confirmados.
 
 # 11. Ejemplos prácticos
 
-Los ejemplos son una parte central del estilo editorial de Agendic.
-
-Un ejemplo bueno permite que el lector piense:
+Los ejemplos deben permitir pensar:
 
 > “Esto podría pasar en mi negocio.”
 
-Debe contener el mínimo contexto necesario:
+Un ejemplo ilustrativo puede inventar la situación, pero nunca el funcionamiento del producto ni sus resultados.
 
-- tipo de situación;
-- problema;
-- uso de la capacidad;
-- resultado esperable.
-
-## Ejemplo ilustrativo
-
-Puede inventarse la situación, pero no el funcionamiento del producto.
-
-Correcto:
-
-> Imagina un centro con varias clases y una promoción válida solo durante una semana…
-
-No correcto:
-
-> Un cliente aumentó un 28 % sus reservas gracias a esta promoción.
-
-salvo que exista evidencia autorizada.
-
-## Ejemplo real
-
-Identificarlo como real solo cuando esté validado.
-
-No completar huecos de un caso real con detalles plausibles.
+Un caso real solo puede incluir nombres, cifras o resultados cuando estén validados y autorizados.
 
 # 12. Claridad y lenguaje
 
-Usar palabras que un responsable de negocio utilizaría en una conversación normal.
+Usar palabras que una persona responsable de un negocio utilizaría en una conversación normal.
 
 Preferir:
 
 - `usar` frente a `hacer uso de`;
 - `ver` frente a `visualizar` cuando no sea necesario;
 - `configurar` frente a `parametrizar`;
-- `cambio` frente a `modificación funcional`;
-- `automatizar` solo cuando exista automatización real;
-- `conectar` cuando dos partes del proceso están realmente relacionadas.
+- `cambio` frente a `modificación funcional`.
 
-Evitar jerga de software cuando existe una forma cotidiana de explicarlo.
-
-No simplificar hasta volver impreciso el contenido.
+Evitar jerga de software cuando exista una forma cotidiana de explicarlo.
 
 # 13. Frases, párrafos y ritmo
 
 Preferir:
 
-- frases relativamente cortas;
-- una idea principal por frase;
+- frases claras;
 - párrafos breves;
-- subtítulos descriptivos;
-- listas cuando ayudan a comparar, enumerar o seguir pasos;
-- voz activa.
+- una idea principal por párrafo;
+- voz activa;
+- listas solo cuando realmente ayudan.
 
-Evitar:
+No convertir el texto en una sucesión artificial de frases de una sola línea.
 
-- párrafos de muchas ideas encadenadas;
-- subordinadas innecesarias;
-- introducciones largas;
-- repetir el mismo beneficio con palabras distintas;
-- adjetivos que no añaden información.
+Combinar frases cortas con párrafos algo más desarrollados para que la lectura tenga ritmo natural.
 
-Escribir para lectores que escanean antes de decidir si leen todo.
-
-La primera frase de un párrafo debe ayudar a entender de qué trata.
+Eliminar cualquier frase que repita una idea ya entendida.
 
 # 14. Palabras y fórmulas a evitar
 
@@ -380,69 +248,42 @@ Evitar salvo que exista una razón concreta:
 - solución definitiva;
 - potente solución;
 - tecnología de vanguardia;
-- experiencia única;
 - transforma tu negocio;
 - lleva tu negocio al siguiente nivel;
 - nunca había sido tan fácil;
-- cambia para siempre;
-- optimización integral;
 - ecosistema 360;
 - sin esfuerzo;
 - con un solo clic, cuando no sea literalmente cierto.
 
-También evitar abuso de:
-
-- “más fácil que nunca”;
-- “de forma rápida y sencilla”;
-- “todo lo que necesitas”;
-- “en tiempo real” si no es relevante o no está confirmado.
-
-No están prohibidas por vocabulario. Se evitan porque suelen ocultar falta de concreción.
+También evitar frases que suenen a marketing genérico si pueden sustituirse por una explicación concreta.
 
 # 15. Información técnica
 
 No trasladar al contenido editorial:
 
-- tablas de base de datos;
-- nombres de campos;
+- tablas o campos de base de datos;
 - SQL;
 - archivos internos;
 - clases;
 - endpoints;
 - llamadas API internas;
-- nombres de variables;
-- lógica de implementación;
-- infraestructura;
-- decisiones técnicas;
-- mecanismos internos que el cliente no necesita conocer.
+- variables;
+- arquitectura;
+- decisiones de implementación.
 
-La evidencia técnica puede servir para confirmar un comportamiento.
-
-Después debe traducirse a lenguaje funcional.
-
-Ejemplo:
-
-No escribir:
-
-> El sistema comprueba el campo `xactivo` de la tabla…
-
-Escribir, si está confirmado:
-
-> Agendic comprueba si la promoción está activa antes de aplicarla.
+La evidencia técnica sirve para confirmar comportamientos, no para comunicarlos.
 
 # 16. Nombres, menús y rutas
 
-Incluir una ruta de menú solo cuando:
+Incluir rutas solo cuando:
 
-- esté confirmada;
-- ayude realmente al lector;
+- estén confirmadas;
+- ayuden realmente;
 - la pieza tenga intención operativa.
 
-No introducir rutas en una pieza puramente inspiracional si rompen el flujo.
+No introducir rutas en contenido editorial si rompen el flujo.
 
-Conservar literalmente nombres oficiales de módulos, pantallas o acciones cuando la precisión lo requiera.
-
-No deducir rutas por similitud con otras partes del producto.
+No deducir nombres ni rutas por similitud.
 
 # 17. Datos, cifras y testimonios
 
@@ -450,168 +291,100 @@ No utilizar una cifra sin trazabilidad.
 
 No redondear resultados para hacerlos más atractivos.
 
-No convertir una impresión cualitativa en un dato cuantitativo.
+No convertir una percepción cualitativa en un dato cuantitativo.
 
-Un testimonio real debe mantener el sentido original y contar con fuente autorizada.
-
-No crear frases entrecomilladas para representar lo que “diría” un cliente.
-
-Si no existe una cifra, escribir el beneficio de forma cualitativa.
+No crear testimonios ni frases entrecomilladas atribuidas a clientes inexistentes.
 
 # 18. Contenido sectorial
 
-La base debe ser transversal.
+La base puede ser transversal, pero una adaptación sectorial debe hacer que la situación resulte más reconocible.
 
-Adaptar cuando el sector permita hacer el mensaje más reconocible.
+Puede adaptar:
 
-Cambios editoriales válidos:
+- vocabulario;
+- ejemplo;
+- contexto;
+- rol del lector;
+- tipo de servicio o recurso.
 
-- `cliente` → `socio` en un gimnasio cuando proceda;
-- `servicio` → `tratamiento` en una clínica cuando proceda;
-- `recurso` → `sala`, `box`, `máquina`, `vehículo` o `embarcación` si el ejemplo lo requiere;
-- `reserva` → `clase`, `cita` o `sesión` según contexto.
-
-No sobrecargar la pieza con vocabulario sectorial si la capacidad es comprensible de forma general.
-
-El sector debe ayudar a reconocer la situación, no limitar innecesariamente el alcance del mensaje.
+No puede alterar hechos funcionales, condiciones ni disponibilidad.
 
 # 19. CTA
 
-Un CTA debe indicar claramente el siguiente paso.
+Un CTA debe ser proporcional al contenido.
 
-Preferir verbos concretos:
+Puede invitar a:
 
-- `Descubre cómo funciona`;
-- `Ver el ejemplo`;
-- `Consulta la guía`;
-- `Revisa la configuración`;
-- `Conoce las posibilidades`;
-- `Solicita una prueba`;
-- `Habla con nuestro equipo`;
-- `Contacta con Atención al Cliente`.
+- leer;
+- revisar una práctica;
+- consultar una guía;
+- probar una configuración;
+- hablar con el equipo;
+- realizar una acción concreta.
 
-Evitar CTAs vagos como:
+No todas las piezas necesitan CTA.
 
-- `Haz clic aquí`;
-- `Más información` cuando puede nombrarse el destino;
-- `Descubre más` sin explicar sobre qué.
-
-No introducir un CTA comercial agresivo en todas las piezas.
-
-Una publicación educativa puede cerrar con una pregunta, una conclusión útil o una invitación a revisar una práctica.
+No utilizar una llamada comercial por costumbre.
 
 # 20. Imágenes y creatividades
 
-La creatividad debe ayudar a comprender la idea, no decorar un texto que ya funciona solo.
+La creatividad debe ayudar a comprender la idea.
 
-Priorizar cuando corresponda:
+Puede utilizar:
 
-- captura de una función relevante;
-- comparación antes/después;
-- flujo muy sencillo;
-- situación reconocible;
-- dato confirmado;
-- secuencia de pasos;
-- ejemplo visual;
-- una frase breve que concentre la idea.
+- una situación reconocible;
+- un antes/después;
+- una comparación;
+- una frase breve;
+- un flujo sencillo;
+- una captura actualizada;
+- un ejemplo visual.
 
-Evitar llenar una creatividad de texto.
+No llenar la imagen de texto.
 
-La imagen no debe introducir una promesa más fuerte que el copy.
-
-Si se utiliza una captura de producto:
-
-- mostrar solo lo necesario;
-- cuidar datos personales;
-- evitar información de prueba confusa;
-- confirmar que la interfaz sigue vigente.
+La creatividad no puede introducir una promesa más fuerte que el copy.
 
 # 21. Entrada principal
 
-La entrada principal debe resolver la historia completa.
+La entrada principal debe explicar la historia completa.
 
-## Apertura
+Estructura orientativa:
 
-Hacer visible el problema o el resultado.
+1. situación o problema;
+2. por qué importa;
+3. forma de resolverlo;
+4. capacidad relacionada;
+5. ejemplo;
+6. condiciones relevantes;
+7. siguiente paso.
 
-## Desarrollo
-
-Explicar por qué ocurre y qué coste operativo genera sin dramatizar.
-
-## Respuesta
-
-Introducir la capacidad de Agendic cuando el lector ya entiende por qué importa.
-
-## Ejemplo
-
-Mostrar un uso concreto.
-
-## Condiciones
-
-Añadir solo las que puedan cambiar la interpretación o el uso.
-
-## Acción
-
-Dar el siguiente paso adecuado.
-
-No convertir la entrada en una lista enciclopédica de funcionalidades relacionadas.
-
-Si aparece otra historia con valor propio, crear otra semilla.
+No convertirla en una lista enciclopédica de funcionalidades.
 
 # 22. Newsletter
 
-El correo compite con muchas otras cosas por la atención.
+La newsletter debe poder entenderse rápidamente mediante:
 
-Debe ser fácil de entender incluso si el lector solo mira:
-
-- remitente;
 - asunto;
 - preheader;
+- apertura;
 - titulares;
-- primera línea;
 - CTA.
 
-## Asunto
+La historia protagonista debe tener más jerarquía que las secundarias.
 
-Decir qué hay dentro antes que intentar “vender” la apertura.
-
-Preferir asuntos descriptivos con interés real.
-
-Evitar clickbait, misterio artificial o urgencia falsa.
-
-## Preheader
-
-Completar el asunto, no repetirlo.
-
-## Apertura
-
-Breve. Dar una razón para seguir leyendo.
-
-## Historia protagonista
-
-Debe recibir claramente más espacio y jerarquía.
-
-## Historias secundarias
-
-Cada una debe poder entenderse en pocos segundos.
-
-## CTA
-
-Un CTA principal por historia cuando sea necesario, pero evitar una newsletter llena de botones equivalentes.
-
-## Regla de profundidad
-
-La newsletter despierta interés.
-
-No debe intentar sustituir una entrada completa ni una guía operativa.
+La newsletter despierta interés; no debe sustituir una entrada completa ni una guía operativa.
 
 # 23. LinkedIn
 
 LinkedIn es el principal canal de **autoridad sectorial** de Agendic.
 
-Su función no es demostrar constantemente lo que hace el software. Su función es ayudar a quienes gestionan centros deportivos a entender y resolver mejor los problemas de su negocio.
+Su función es ayudar a quienes gestionan centros deportivos a entender y resolver mejor los problemas de su negocio.
 
-El posicionamiento editorial principal del canal es:
+La marca está en quién publica. **No necesita aparecer dentro del texto.**
+
+## Posicionamiento
+
+El foco editorial principal es:
 
 - gimnasios;
 - centros deportivos;
@@ -625,39 +398,67 @@ El posicionamiento editorial principal del canal es:
 
 La percepción buscada es:
 
+> `Esto me pasa.`
+
+Después:
+
 > `Entienden perfectamente cómo funciona mi centro.`
 
 Después:
 
-> `Saben cómo abordar problemas que vivo cada día.`
+> `La forma de resolverlo tiene sentido.`
 
-Y solo después:
+Y, con el tiempo:
 
-> `Además, tienen una solución tecnológica que puede ayudarme.`
+> `Esta marca sabe de lo que habla.`
 
-## Conocimiento antes que producto
+No buscar que cada publicación termine en producto, demo o funcionalidad.
 
-LinkedIn debe aportar valor aunque el lector no esté buscando software.
+## La marca es implícita
 
-El producto no tiene que aparecer en todas las publicaciones.
+Por defecto, no mencionar `Agendic` dentro del cuerpo de una publicación.
 
-Cuando aparezca, debe hacerlo porque ayuda a demostrar una solución concreta, no porque necesitemos mencionar Agendic.
+Evitar:
 
-Antes de redactar, hacer esta prueba:
+- `En Agendic puedes...`;
+- `Nuestra plataforma permite...`;
+- `Con Agendic...`;
+- `Aquí entra Agendic...`;
+- rutas de menú;
+- CTA hacia producto.
 
-> **Si eliminamos temporalmente el nombre Agendic, ¿el post sigue teniendo algo útil que decir?**
+La cuenta, el diseño, el autor y el contexto ya construyen marca.
 
-Si la respuesta es no, probablemente estamos demasiado cerca de una ficha de producto.
+Mencionar producto únicamente cuando el usuario pida expresamente una publicación de producto, novedad, lanzamiento o funcionalidad.
+
+## De producto a conocimiento
+
+Muchas semillas nacen de una funcionalidad. LinkedIn debe abstraerla.
+
+Proceso interno:
+
+**funcionalidad → dolor → principio de gestión → solución genérica → ejemplo**
+
+Ejemplo:
+
+Si una funcionalidad permite crear promociones con destinatarios, conceptos, fechas y cupones, el post no tiene por qué explicar el módulo.
+
+Puede enseñar que una promoción debería dejar definidas antes de comunicarla cuatro cosas:
+
+- quién puede utilizarla;
+- a qué se aplica;
+- qué descuento corresponde;
+- hasta cuándo está vigente.
+
+La funcionalidad valida el conocimiento. El conocimiento es lo que se publica.
 
 ## Elegir un lector principal
 
-No escribir para `un gimnasio` en abstracto.
-
-Cada publicación debe elegir un perfil principal y entender su realidad.
+Cada publicación debe tener un perfil principal.
 
 ### CEO / propietario
 
-Hablar de:
+Dolores habituales:
 
 - rentabilidad;
 - crecimiento;
@@ -670,7 +471,7 @@ Hablar de:
 
 ### Gerente
 
-Hablar de:
+Dolores habituales:
 
 - organización;
 - equipo;
@@ -684,7 +485,7 @@ Hablar de:
 
 ### Director de centro o sede
 
-Hablar de:
+Dolores habituales:
 
 - operación diaria;
 - horarios;
@@ -697,10 +498,9 @@ Hablar de:
 
 ### Recepción / administración
 
-Hablar de:
+Dolores habituales:
 
 - interrupciones;
-- llamadas;
 - consultas repetitivas;
 - pagos;
 - reservas y cambios;
@@ -710,235 +510,146 @@ Hablar de:
 
 ### Entrenador / profesional
 
-Hablar de:
+Dolores habituales:
 
 - agenda;
 - asistencia;
 - información del cliente;
 - seguimiento;
 - comunicación;
-- tareas administrativas que restan tiempo a su trabajo principal.
+- tareas administrativas.
 
-Pueden existir otros perfiles. Lo obligatorio es saber **quién debería reconocerse en el post**.
+Lo importante es saber quién debería reconocerse en las primeras líneas.
 
 ## Tipos de publicación
 
-Alternar distintas familias para evitar que el feed parezca un catálogo de funcionalidades.
+Alternar:
 
-### Problema operativo
+- problema operativo;
+- tesis de gestión;
+- caso de uso;
+- consejo o método;
+- contexto del sector;
+- historia real validada;
+- producto explícito solo cuando se pida.
 
-Mostrar una fricción cotidiana y sus consecuencias.
-
-### Tesis de gestión
-
-Defender una idea clara sobre cómo gestionar mejor un centro.
-
-### Caso de uso
-
-Construir una situación concreta que permita visualizar una mejor forma de trabajar.
-
-### Descubrimiento de producto
-
-Mostrar una capacidad útil o poco conocida de Agendic.
-
-### Consejo o método
-
-Dar una forma práctica de analizar, organizar o resolver un problema.
-
-### Historia real
-
-Utilizar clientes, equipo o experiencias únicamente con información validada y autorizada.
-
-### Contexto del sector
-
-Aportar criterio sobre situaciones, tendencias o cambios relevantes del fitness cuando existan fuentes suficientes.
-
-## Construir una tesis
-
-Cada publicación debería tener una idea que el lector pueda recordar al día siguiente.
-
-Ejemplos de construcción:
-
-> Si necesitas estar presente para que todo funcione, tienes dependencia operativa.
-
-> Automatizar no consiste en hacer más cosas. Consiste en dejar de repetir las mismas.
-
-> Una promoción que solo entiende quien la creó no tiene unas reglas claras.
-
-Ser contundente con las ideas y prudente con los hechos.
-
-No inventar estadísticas para dar autoridad a una opinión.
-
-## Estructura
-
-Una estructura especialmente útil es:
-
-**observación → tensión → tesis → aprendizaje/solución → Agendic si encaja → ejemplo → cierre**
-
-También puede utilizarse:
-
-**persona → situación → problema → reflexión → solución → producto si aporta valor**
-
-No tratar estas secuencias como plantillas rígidas.
-
-## Apertura
-
-Las primeras líneas deben provocar reconocimiento, no presentar la marca.
-
-Priorizar:
-
-- una afirmación con criterio;
-- una situación cotidiana;
-- un contraste;
-- una pregunta real;
-- una pequeña escena;
-- una consecuencia que normalmente pasa desapercibida.
-
-Evitar empezar por:
-
-- `En Agendic...`;
-- `Nuestra plataforma...`;
-- `Tenemos una funcionalidad...`;
-- `Hoy queremos enseñarte...`.
-
-Salvo que el producto sea realmente la noticia.
-
-## Profundidad
-
-En la mayoría de publicaciones, dedicar más espacio al negocio, al problema y al aprendizaje que al producto.
-
-La proporción es conceptual, no matemática:
-
-- mayoría: conocimiento, contexto, dolor o reflexión;
-- después: solución o criterio;
-- solo el espacio necesario: producto y CTA.
-
-Una publicación no tiene que explicar todo lo que sabemos sobre una funcionalidad.
-
-Elegir **una idea**.
-
-Una misma semilla puede producir muchos LinkedIn distintos para diferentes perfiles, dolores o tesis.
-
-## Lenguaje del sector
-
-Usar vocabulario fitness de forma natural cuando aporte reconocimiento:
-
-- centro;
-- sede;
-- socio;
-- abonado;
-- alumno;
-- clase;
-- sesión;
-- cuota;
-- bono;
-- entrenador;
-- recepción;
-- ocupación;
-- acceso;
-- baja;
-- renovación;
-- retención;
-- altas;
-- horario;
-- sala;
-- recurso.
-
-Elegir el término adecuado para el negocio concreto. Un estudio de Pilates puede hablar de alumnos o clientes donde un gimnasio hablaría de socios.
-
-No introducir lenguaje sectorial solo para aparentar especialización.
-
-## Personalidad
+## Tono
 
 LinkedIn debe sonar:
 
 - ágil;
 - fresco;
+- natural;
 - dinámico;
 - experto;
-- contundente;
+- seguro;
 - cercano;
-- experimentado;
-- útil.
+- fácil de leer.
 
-Demostrar experiencia mediante la calidad de las observaciones y ejemplos.
+La contundencia debe estar en la observación, no en un tono solemne.
 
-No afirmar constantemente que somos expertos.
+Demostrar experiencia mediante detalles reales del día a día.
 
-No sonar como:
+No decir que somos expertos. Hacer que se note.
 
-- una consultora académica;
-- una nota de prensa;
-- un catálogo de software;
-- una marca juvenil que busca atención a cualquier precio;
-- un vendedor que convierte cualquier reflexión en una solicitud de demo.
+## Fluidez
 
-## Autoridad y evidencia
+El texto debe leerse como una conversación profesional bien pensada.
 
-Ser contundente con una idea no autoriza a inventar hechos.
+No convertir la estructura editorial en una plantilla visible.
 
-Correcto:
+Evitar una secuencia rígida del tipo:
 
-> Una promoción que depende de que recepción recuerde todas sus excepciones genera una operativa frágil.
+`problema → gran tesis → lista → producto → CTA`.
 
-Incorrecto sin evidencia:
+Variar el ritmo.
 
-> El 40 % de los errores promocionales se produce en recepción.
+No separar cada frase en un párrafo si no hay una razón de énfasis.
 
-No inventar:
+No añadir subtítulos dentro del copy de LinkedIn salvo que el formato lo necesite.
 
-- estadísticas;
-- benchmarks;
-- porcentajes;
-- resultados;
-- tendencias;
-- comportamientos generales del sector;
-- testimonios.
+No explicar una idea dos veces.
 
-Cuando exista evidencia válida, utilizarla con precisión.
+Evitar transiciones rígidas como:
+
+- `El problema es...` repetido;
+- `La solución es...`;
+- `En conclusión...`;
+- `Aquí entra...`;
+- `Y es aquí donde...`.
+
+## Apertura
+
+Las primeras líneas deben provocar reconocimiento.
+
+Funcionan bien:
+
+- pequeñas escenas;
+- situaciones muy concretas;
+- contradicciones;
+- observaciones con criterio;
+- preguntas reales;
+- detalles que el sector reconoce inmediatamente.
+
+No empezar por la marca.
+
+## Solución genérica
+
+Después de plantear el dolor, explicar cómo se aborda de forma útil para cualquier centro.
+
+La solución puede ser:
+
+- una regla;
+- un proceso;
+- una configuración;
+- una automatización;
+- un criterio;
+- una rutina;
+- una métrica;
+- una forma de ordenar información;
+- la eliminación de un paso manual.
+
+Debe poder entenderse y aplicarse aunque el lector no utilice Agendic.
+
+## Frase memorable
+
+Buscar una idea con personalidad cuando surja de forma natural.
+
+No fabricar una frase grandilocuente en cada post.
+
+Ejemplo:
+
+> Una promoción sencilla por fuera necesita estar muy bien definida por dentro.
 
 ## Cierre
 
-No cerrar siempre vendiendo.
+Por defecto, cerrar cuando la idea esté completa.
 
-Un buen cierre puede ser:
+No añadir un CTA comercial por obligación.
 
-- una conclusión que refuerce la tesis;
-- una pregunta que abra una conversación real;
-- una pequeña lista de comprobación;
-- una invitación a revisar la operativa del centro;
-- un recurso;
-- una entrada completa;
-- una funcionalidad de Agendic;
-- una conversación comercial cuando de verdad sea el siguiente paso natural.
+También puede cerrar con:
 
-No fabricar preguntas únicamente para aumentar comentarios.
+- una recomendación;
+- una observación final;
+- una pregunta genuina;
+- una pequeña comprobación para aplicar en el centro.
 
-## Ritmo
+Evitar preguntas artificiales diseñadas solo para generar comentarios.
 
-Utilizar párrafos breves y saltos de línea que faciliten la lectura.
+## Pruebas específicas de LinkedIn
 
-No separar cada frase en un párrafo si no existe una razón de ritmo o énfasis.
+Antes de publicar:
 
-Las listas funcionan especialmente bien para situaciones, síntomas, preguntas o criterios.
-
-## Hashtags
-
-Pocos y solo cuando aporten clasificación o alcance relevante.
-
-No utilizarlos como relleno ni convertir el final del post en una lista de etiquetas.
-
-## Pruebas específicas antes de publicar
-
-- ¿Está claro qué perfil del centro debería sentirse identificado?
-- ¿Reconoce una situación real en las primeras líneas?
-- ¿El post aporta algo aunque eliminemos Agendic?
-- ¿Existe una tesis o idea que pueda recordar mañana?
-- ¿Demostramos conocimiento del sector en lugar de decir que lo tenemos?
+- ¿Está claro quién debería sentirse identificado?
+- ¿La situación parece vivida y no inventada desde un despacho?
+- ¿El contenido sería útil aunque lo publicara una persona y no una empresa de software?
+- ¿Explica cómo abordar el problema sin convertirlo en una explicación de producto?
+- ¿Hemos evitado mencionar Agendic por defecto?
+- ¿La solución puede entenderse de forma genérica?
 - ¿Hay una sola idea principal?
-- ¿El producto aparece únicamente si ayuda a la historia?
-- ¿El tono es ágil y fresco sin perder autoridad?
-- ¿El cierre es natural?
+- ¿El tono es fluido, ágil y natural?
+- ¿El texto tiene personalidad sin parecer forzado?
+- ¿El cierre llega cuando la idea termina?
 
 # 24. Instagram
 
@@ -955,32 +666,11 @@ Posibles formatos:
 - vídeo corto;
 - secuencia de ejemplo.
 
-## Copy
-
 La primera línea debe contener la idea o la situación.
 
-No esconder el mensaje tras una introducción larga.
+En carrusel, cada pantalla debe avanzar la historia.
 
-## Carrusel
-
-Cada pantalla debe avanzar la historia.
-
-Ejemplo de secuencia:
-
-1. problema;
-2. por qué ocurre;
-3. qué puede cambiar;
-4. capacidad;
-5. ejemplo;
-6. CTA.
-
-No repetir el mismo mensaje en seis diapositivas.
-
-## Emojis
-
-No son obligatorios.
-
-Usarlos con moderación y solo cuando ayudan al ritmo o al contexto.
+Usar emojis con moderación y solo cuando aporten ritmo o contexto.
 
 # 25. X
 
@@ -994,126 +684,95 @@ Priorizar:
 - dato confirmado;
 - consejo;
 - contraste;
-- descubrimiento de producto.
+- descubrimiento útil.
 
-Crear hilo solo cuando cada publicación tenga una función clara y el tema necesite desarrollo.
-
-No dividir una frase larga en varios posts para fabricar un hilo.
+Crear hilo solo cuando el tema necesite desarrollo real.
 
 # 26. TikTok
 
 Pensar primero en una secuencia audiovisual.
-
-No redactar un artículo y después intentar convertirlo en vídeo.
 
 Estructura útil:
 
 1. gancho visual o verbal;
 2. situación real;
 3. problema;
-4. demostración o explicación;
+4. explicación o demostración;
 5. cambio;
 6. cierre.
 
-Un ejemplo funciona mejor que una enumeración de funciones.
-
-Definir cuando proceda:
-
-- gancho;
-- plano o recurso visual;
-- texto en pantalla;
-- locución;
-- demostración;
-- CTA.
-
-Evitar tendencias, músicas o formatos por obligación. Utilizarlos solo cuando encajen con la idea y la marca.
+Un ejemplo suele funcionar mejor que una lista de funciones.
 
 # 27. Contenido normativo o sensible a fechas
 
-No utilizar un tono de miedo para captar atención.
+No utilizar miedo para captar atención.
 
 Explicar:
 
 1. qué cambia;
 2. a quién afecta;
 3. cuándo;
-4. qué tiene que hacer la empresa;
-5. cómo ayuda Agendic, si está confirmado.
+4. qué debe hacer la empresa;
+5. cómo puede gestionarlo.
 
-Utilizar fechas absolutas cuando exista riesgo de confusión.
+Utilizar fechas absolutas cuando aporten claridad.
 
-No escribir “próximamente”, “ya”, “este año” o “en breve” si una fecha concreta aporta más claridad.
-
-Revisar estos contenidos antes de reutilizarlos meses después.
+Revisar estos contenidos antes de reutilizarlos.
 
 # 28. Información incompleta
 
 Nunca completar una duda con una suposición.
 
-Si falta un detalle secundario, omitirlo y redactar con lo confirmado.
+Si falta un detalle secundario, omitirlo.
 
-Si falta una condición que puede cambiar el sentido de la pieza, detener esa afirmación.
+Si falta una condición que cambia el sentido de la pieza, detener esa afirmación.
 
-Si es imprescindible responder y la fuente no permite confirmarlo, utilizar:
+Si es imprescindible responder y no puede confirmarse:
 
 > Me falta información para confirmarlo. Contacta con Atención al Cliente.
 
-No disfrazar incertidumbre con expresiones como:
-
-- “normalmente”;
-- “en principio”;
-- “debería”;
-- “probablemente”;
-
-cuando en realidad no existe evidencia.
+No disfrazar incertidumbre con `normalmente`, `en principio`, `debería` o `probablemente` cuando no existe evidencia.
 
 # 29. Revisión final
 
-Antes de guardar una pieza, comprobar en este orden:
-
 ## Verdad
 
-- ¿Todos los hechos proceden de una fuente autorizada?
-- ¿He añadido alguna capacidad por lógica o experiencia previa?
-- ¿Las condiciones relevantes están presentes?
-- ¿He inventado una cifra, cliente, resultado o automatización?
+- ¿Todos los hechos están confirmados?
+- ¿He añadido alguna capacidad por lógica?
+- ¿He inventado cifras, resultados, clientes o automatizaciones?
 
 ## Utilidad
 
-- ¿Está claro qué problema, necesidad u oportunidad aborda?
-- ¿Se entiende qué cambia para la empresa?
+- ¿Está claro el problema o necesidad?
+- ¿Se entiende cómo abordarlo?
 - ¿El beneficio es concreto?
-- ¿Hay suficiente contexto para visualizar el uso?
 
 ## Claridad
 
-- ¿La idea principal aparece pronto?
-- ¿Hay frases o párrafos que pueden eliminarse sin perder información?
-- ¿He utilizado jerga que puede traducirse?
-- ¿Los subtítulos ayudan a escanear?
+- ¿La idea aparece pronto?
+- ¿Hay frases que pueden eliminarse?
+- ¿He utilizado jerga innecesaria?
 
 ## Marca
 
 - ¿Suena a alguien que conoce la operativa real?
 - ¿Es profesional sin resultar rígido?
-- ¿Evita grandilocuencia y promesas vacías?
-- ¿El cliente es más protagonista que Agendic?
+- ¿Evita grandilocuencia?
 
 ## Canal
 
 - ¿La pieza está escrita realmente para este canal?
 - ¿Tiene la profundidad adecuada?
-- ¿La creatividad aporta algo?
-- ¿El CTA es natural y posible?
+- ¿El cierre es natural?
 
 ## Diferenciación
 
 - Si ya existen piezas de esta semilla, ¿esta aporta un ángulo, ejemplo o tratamiento nuevo?
 
-La prueba final es sencilla:
+Prueba general:
 
 **Si quitamos el nombre de Agendic, ¿el contenido sigue aportando una idea útil?**
 
-Si la respuesta es no, probablemente estamos escribiendo publicidad antes que contenido.
+En LinkedIn, la prueba es todavía más exigente:
 
-Después, volver a introducir Agendic exactamente donde demuestra cómo resolver esa situación.
+**el contenido debe funcionar precisamente sin necesidad de introducir el nombre de Agendic.**
