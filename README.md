@@ -12,7 +12,8 @@ editor/
 ├── _referencias/
 │   ├── contexto.md
 │   ├── editorial.md
-│   └── guia-redaccion.md
+│   ├── guia-redaccion.md
+│   └── decisiones-editoriales.md
 ├── _skills/
 │   ├── entrada-semilla/
 │   ├── entrada/
@@ -29,7 +30,7 @@ editor/
 ## Qué representa cada carpeta
 
 - `_fuentes/`: define de dónde puede obtenerse información factual sobre Agendic.
-- `_referencias/`: define el contexto, el criterio editorial y la forma de redactar.
+- `_referencias/`: define el contexto, el criterio editorial, la forma de redactar y el registro de decisiones.
 - `_skills/`: contiene los procesos que puede ejecutar la IA.
 - `entradas/`: guarda cada tema editorial y todos los contenidos derivados de él.
 - `newsletters/`: guarda cada edición de newsletter y su composición.
@@ -43,6 +44,24 @@ El flujo editorial es:
 La información factual sobre el producto procede únicamente de la fuente definida en `_fuentes/oraculo.md`.
 
 Las Skills pueden leer el Oráculo, pero nunca modificarlo.
+
+## Fuente única de verdad del Editor
+
+`bookgy/editor` es la fuente única de verdad del sistema editorial.
+
+Una regla, corrección, preferencia o aprendizaje que cambie la forma de trabajar no puede quedar únicamente en una conversación, memoria externa, ZIP, documento local o copia de una Skill.
+
+Cuando exista feedback editorial:
+
+1. identificar su alcance: global, canal, Skill, semilla o contenido concreto;
+2. modificar el archivo canónico correspondiente dentro del repositorio;
+3. registrar la decisión en `_referencias/decisiones-editoriales.md`;
+4. indicar allí qué archivos se han visto afectados;
+5. si una decisión sustituye a otra anterior, dejar trazabilidad de la sustitución.
+
+El registro de decisiones conserva el historial y la razón del cambio. La regla operativa vigente debe quedar también integrada en el archivo que realmente utiliza el Editor: `contexto.md`, `editorial.md`, `guia-redaccion.md`, una Skill o la pieza concreta que corresponda.
+
+De esta forma, una nueva conversación o una nueva ejecución puede reconstruir el criterio editorial únicamente leyendo el repositorio.
 
 ## Identificación de entradas
 
@@ -108,3 +127,4 @@ Una newsletter puede utilizar entradas creadas en cualquier mes.
 6. Escribir el contenido base de forma genérica; adaptar vocabulario y ejemplos por sector cuando aporte valor.
 7. Mantener una única idea principal por semilla.
 8. Reutilizar una semilla para generar nuevos contenidos y creatividades sin duplicarla.
+9. Registrar en GitHub cualquier decisión editorial que modifique criterios, procesos o piezas.
