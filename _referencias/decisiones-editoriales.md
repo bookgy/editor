@@ -125,3 +125,23 @@ El registro resume la decisión. La regla operativa completa debe vivir también
   - Actualizar siempre el archivo canónico afectado.
   - Añadir una entrada a este registro para mantener trazabilidad de la decisión.
   - No considerar la conversación, una Skill empaquetada externamente, un ZIP o un documento local como sustituto del contenido registrado en GitHub.
+
+## DEC-2026-09-006 — Variedad de formatos sin perder lector, dolor ni profundidad
+
+- fecha: 2026-09-16
+- estado: vigente
+- alcance: canal
+- afecta a:
+  - `_skills/entrada-linkedin/SKILL.md`
+  - `entradas/2026-09-001-cupones-promocionales/linkedin-002.md`
+- decisión:
+  - Las publicaciones de LinkedIn no deben compartir una misma plantilla, longitud o estructura.
+  - La variedad de formato no puede utilizarse como excusa para escribir contenido genérico.
+  - Cada publicación debe tener un perfil principal y un dolor principal reconocibles en el propio texto, no solo en los metadatos.
+  - La profundidad debe elegirse de manera intencionada: breve, media o desarrollada según lo que necesite la idea.
+- aplicación:
+  - Permitir variantes como insight breve, tesis desarrollada, escena operativa, consejo o método, caso de uso, historia real, contexto sectorial o producto explícito.
+  - Un post breve debe seguir siendo específico y completo.
+  - Cuando un gancho abra una tensión relevante, desarrollar suficientemente el problema, sus consecuencias y el criterio para resolverlo.
+  - Evitar dolores abstractos como `mejorar la gestión`, `tener más control` o `ser más eficiente` cuando puedan concretarse en una situación operativa.
+  - Incorporar en los metadatos `dolor` y `profundidad` para hacer explícitas estas decisiones editoriales.
