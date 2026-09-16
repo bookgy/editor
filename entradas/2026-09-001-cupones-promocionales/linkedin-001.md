@@ -40,3 +40,5 @@ Para el equipo, unas reglas claras detrás.
 Parece un detalle pequeño, pero cambia bastante la operativa de recepción. Menos interpretaciones, menos excepciones explicadas sobre la marcha y menos “espera, que lo pregunto”.
 
 Una promoción sencilla por fuera necesita estar muy bien definida por dentro.
+
+Y en vuestro centro, ¿qué parte de una promoción suele generar más dudas al equipo? Os leemos.
