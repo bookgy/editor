@@ -198,7 +198,7 @@ No utilizar este formato como salida por defecto de una semilla funcional.
 8. Desarrollar el problema con ejemplos cotidianos y lenguaje del sector.
 9. Explicar la solución con naturalidad y sin convertirla en un tutorial de software.
 10. No mencionar Agendic ni la funcionalidad concreta salvo petición expresa.
-11. Cerrar cuando la idea esté completa. No añadir un CTA comercial por obligación.
+11. Elegir el cierre más natural: conclusión, recomendación, comprobación o pregunta de experiencia cuando aporte conversación real.
 12. Asignar el siguiente número libre y guardar como `linkedin-NNN.md`.
 
 ## Estructura preferida
@@ -303,8 +303,36 @@ También puede cerrar con:
 
 - una observación final;
 - una recomendación;
-- una pregunta genuina cuando aporte conversación;
-- una pequeña comprobación que el lector pueda hacer en su centro.
+- una pequeña comprobación que el lector pueda hacer en su centro;
+- una pregunta genuina sobre su experiencia cuando esa respuesta pueda enriquecer la conversación entre profesionales.
+
+### Cierre participativo
+
+Cuando el tema se preste a compartir experiencia real, preferir una pregunta **concreta, fácil de responder y ligada a la operativa del lector**.
+
+La pregunta debe invitar a contar algo que realmente le haya ocurrido o que gestione hoy, no pedir una opinión abstracta.
+
+Preferir:
+
+> ¿Qué consulta se repite más veces en vuestra recepción?
+
+> Si gestionáis varias sedes, ¿qué proceso os cuesta más mantener igual en todas?
+
+> Los que trabajáis con bonos, ¿qué parte de la gestión os genera más fricción?
+
+Evitar:
+
+> ¿Qué opinas?
+
+> ¿Estás de acuerdo?
+
+> ¿Te pasa?
+
+> Déjanos tu opinión en comentarios.
+
+`Os leemos`, `Os leemos en comentarios` o fórmulas equivalentes pueden utilizarse cuando suenen naturales, pero no convertirlas en una coletilla fija.
+
+No cerrar todas las publicaciones con pregunta. Alternar cierres participativos con conclusiones, recomendaciones y reflexiones para mantener variedad y credibilidad.
 
 Evitar:
 
@@ -391,7 +419,8 @@ Antes de guardar, comprobar:
 8. ¿Hay una sola idea principal?
 9. ¿Suena fluido, ágil y natural?
 10. ¿Todos los datos y hechos están confirmados?
-11. ¿Hemos cerrado cuando la idea termina, sin añadir venta innecesaria?
+11. Si cerramos con pregunta, ¿invita a compartir una experiencia concreta y no una opinión genérica?
+12. ¿Estamos variando los cierres en lugar de repetir siempre pregunta + `Os leemos`?
 
 ## Metadatos
 
