@@ -1,21 +1,22 @@
 ---
 name: entrada-linkedin
-description: "Crear publicaciones de LinkedIn de Agendic orientadas principalmente a centros deportivos, gimnasios, estudios de Pilates, yoga, entrenamiento, boxeo y negocios fitness. Usar para convertir una semilla existente en contenido de autoridad sectorial dirigido a un perfil concreto del centro, priorizando conocimiento práctico y dolores reales sobre la promoción del producto, y generando el siguiente archivo linkedin-NNN.md sin repetir enfoques anteriores."
+description: "Crear publicaciones de LinkedIn de Agendic orientadas principalmente a centros deportivos, gimnasios, Pilates, yoga, entrenamiento, boxeo y negocios fitness. Usar para convertir una semilla existente en contenido experto dirigido a un perfil concreto del centro, partiendo de dolores reales y explicando soluciones de gestión de forma genérica, fluida y útil. Por defecto, no mencionar Agendic ni presentar el producto como solución dentro del texto; la marca está implícita en el emisor."
 ---
 
 # Entrada LinkedIn
 
-Crear publicaciones nativas de LinkedIn que posicionen a Agendic como una marca experta en la gestión de centros deportivos.
+Crear publicaciones nativas de LinkedIn que posicionen a Agendic como una marca experta en la gestión de centros deportivos **sin necesidad de hablar de Agendic**.
 
-LinkedIn debe ayudar antes de vender.
+La marca está en quién publica.
 
-La percepción buscada es, en este orden:
+El contenido debe hacer que el lector piense:
 
-1. `Entienden perfectamente cómo funciona mi centro.`
-2. `Saben cómo abordar problemas que vivo cada día.`
-3. `Tienen soluciones y tecnología construidas desde ese conocimiento.`
+1. `Esto me pasa.`
+2. `Entienden perfectamente cómo funciona mi centro.`
+3. `La forma de resolverlo tiene sentido.`
+4. `Quiero seguir leyendo a esta gente.`
 
-El producto puede aparecer, pero no tiene que ser protagonista de todas las publicaciones.
+No buscar que el lector piense inmediatamente en software, demo o funcionalidad.
 
 ## Referencias obligatorias
 
@@ -41,19 +42,57 @@ En LinkedIn, el posicionamiento editorial principal de Agendic es el sector fitn
 - boxeo y disciplinas similares;
 - otros negocios deportivos con operativa comparable.
 
-Aunque una semilla sea `General`, adaptar por defecto el contenido de LinkedIn a una situación reconocible del sector fitness cuando los hechos funcionales lo permitan.
+Aunque una semilla sea `General`, adaptar por defecto el contenido de LinkedIn a una situación reconocible del sector fitness cuando los hechos permitan hacerlo.
 
-No inventar funcionalidades específicas del sector durante esa adaptación.
+No inventar funcionalidades ni comportamientos específicos del sector.
+
+## La marca es el emisor, no el argumento
+
+Por defecto, **no mencionar `Agendic` en el cuerpo de una publicación de LinkedIn**.
+
+No escribir:
+
+> En Agendic puedes configurar...
+
+> Nuestra plataforma permite...
+
+> Con Agendic puedes...
+
+En su lugar, explicar el problema y la forma de resolverlo:
+
+> Antes de lanzar una promoción, deja cerradas cuatro reglas: quién puede utilizarla, a qué se aplica, qué descuento tiene y hasta cuándo está vigente.
+
+El conocimiento del producto sirve internamente para saber que la solución propuesta es realista y aplicable. No obliga a nombrar la herramienta que la implementa.
+
+### Excepción
+
+Mencionar Agendic o una funcionalidad explícitamente solo cuando el usuario pida una publicación de producto, una novedad, un lanzamiento, una explicación de una capacidad concreta o exista otra razón editorial expresa.
+
+No introducir la marca por costumbre al final del post.
+
+## De funcionalidad a conocimiento
+
+Una semilla puede nacer de una funcionalidad, pero el post de LinkedIn no debe parecer una explicación de esa funcionalidad.
+
+Transformar:
+
+**funcionalidad confirmada → problema que resuelve → principio de gestión → solución genérica → ejemplo reconocible**
+
+Ejemplo:
+
+- conocimiento interno: existen promociones con destinatarios, conceptos, descuento, fechas y cupones;
+- contenido editorial: una promoción funciona mejor cuando sus reglas están definidas antes de comunicarla;
+- post: explicar qué reglas deberían quedar cerradas y qué ocurre cuando viven solo en la cabeza del equipo.
+
+No enumerar opciones del software salvo que sean necesarias para explicar el criterio.
 
 ## Elegir primero a quién hablamos
 
 Cada publicación debe tener **un perfil principal**. No escribir para `el gimnasio` como una entidad abstracta.
 
-Perfiles habituales:
-
 ### CEO / propietario
 
-Dolores frecuentes:
+Dolores habituales:
 
 - rentabilidad;
 - crecimiento;
@@ -66,7 +105,7 @@ Dolores frecuentes:
 
 ### Gerente
 
-Dolores frecuentes:
+Dolores habituales:
 
 - organización del centro;
 - equipo;
@@ -79,7 +118,7 @@ Dolores frecuentes:
 
 ### Director de centro o sede
 
-Dolores frecuentes:
+Dolores habituales:
 
 - operación diaria;
 - horarios;
@@ -92,7 +131,7 @@ Dolores frecuentes:
 
 ### Recepción / administración
 
-Dolores frecuentes:
+Dolores habituales:
 
 - interrupciones;
 - llamadas y consultas repetitivas;
@@ -104,7 +143,7 @@ Dolores frecuentes:
 
 ### Entrenador / profesional
 
-Dolores frecuentes:
+Dolores habituales:
 
 - agenda;
 - asistencia;
@@ -117,8 +156,6 @@ Elegir otros perfiles cuando la historia lo requiera, pero mantener un lector pr
 
 ## Tipos de publicación
 
-Elegir el formato editorial que mejor sirva a la idea. No convertir automáticamente una semilla de producto en un post de producto.
-
 ### 1. Problema operativo
 
 Partir de una fricción cotidiana que el lector reconozca inmediatamente.
@@ -129,88 +166,156 @@ Defender una idea útil y con criterio sobre cómo gestionar mejor un centro.
 
 ### 3. Caso de uso
 
-Construir una situación concreta y plausible que permita visualizar una forma de trabajar.
+Construir una situación concreta y plausible que permita visualizar una mejor forma de trabajar.
 
-### 4. Descubrimiento de producto
-
-Mostrar una capacidad de Agendic que puede estar infrautilizada o ser poco conocida, siempre desde su utilidad.
-
-### 5. Consejo o método
+### 4. Consejo o método
 
 Enseñar una forma práctica de analizar, organizar o resolver un problema.
 
+### 5. Contexto del sector
+
+Explicar situaciones, tendencias, prácticas o cambios relevantes cuando existan fuentes suficientes.
+
 ### 6. Historia real
 
-Utilizar experiencias, clientes, equipo o casos únicamente cuando exista información validada y autorizada.
+Utilizar experiencias, clientes o situaciones reales únicamente cuando exista información validada y autorizada.
 
-### 7. Contexto del sector
+### 7. Producto explícito
 
-Explicar cambios, tendencias, prácticas o problemas relevantes del fitness cuando existan fuentes suficientes y conectarlos con la gestión del centro cuando proceda.
+Reservar para cuando el usuario pida expresamente hablar de una novedad, funcionalidad, lanzamiento o producto.
+
+No utilizar este formato como salida por defecto de una semilla funcional.
 
 ## Flujo
 
 1. Revisar la semilla, la entrada principal y los LinkedIn ya existentes.
 2. Elegir un único perfil principal al que dirigir la publicación.
-3. Identificar un dolor, situación o decisión que ese perfil reconozca de inmediato.
-4. Elegir uno de los tipos de publicación anteriores.
-5. Formular una **tesis editorial**: la idea que queremos que el lector recuerde al día siguiente.
-6. Comprobar que la tesis aporta valor aunque se elimine temporalmente el nombre `Agendic`.
-7. Abrir con una observación, contraste, afirmación o situación fuerte. No empezar por el producto salvo que el producto sea realmente la noticia.
-8. Desarrollar la tensión: explicar por qué el problema importa en la operación o gestión de un centro deportivo.
-9. Aportar criterio, aprendizaje, método o ejemplo antes de vender una solución.
-10. Introducir Agendic solo cuando ayude a demostrar cómo resolver la situación. Puede no aparecer si la pieza es puramente educativa y el usuario no pide lo contrario.
-11. Si se menciona producto, seleccionar únicamente las capacidades necesarias para sostener la idea. No resumir toda la entrada.
-12. Cerrar con una conclusión memorable, una pregunta real, un recurso o un CTA proporcionado.
-13. Asignar el siguiente número libre y guardar como `linkedin-NNN.md`.
+3. Identificar una situación o dolor que ese perfil reconozca sin necesidad de explicar demasiado contexto.
+4. Formular una **tesis editorial**: la idea que queremos que recuerde al día siguiente.
+5. Traducir la capacidad de la semilla a una solución genérica: una regla, proceso, criterio, automatización, configuración o forma de trabajar.
+6. Elegir el tipo de publicación.
+7. Abrir con una observación, contraste, escena o frase con criterio.
+8. Desarrollar el problema con ejemplos cotidianos y lenguaje del sector.
+9. Explicar la solución con naturalidad y sin convertirla en un tutorial de software.
+10. No mencionar Agendic ni la funcionalidad concreta salvo petición expresa.
+11. Cerrar cuando la idea esté completa. No añadir un CTA comercial por obligación.
+12. Asignar el siguiente número libre y guardar como `linkedin-NNN.md`.
 
 ## Estructura preferida
 
-No es una plantilla rígida, pero una publicación de LinkedIn suele funcionar bien con:
+La estructura debe sentirse natural, no visible.
 
-**observación → tensión → tesis → aprendizaje/solución → Agendic si encaja → ejemplo → cierre**
+Como guía interna:
 
-Otra estructura válida:
+**situación → tensión → idea → solución → ejemplo → cierre**
 
-**persona → situación → problema → reflexión → solución → producto si aporta valor**
+O:
 
-## Regla de profundidad
+**escena cotidiana → qué está fallando → criterio para resolverlo → consecuencia práctica**
 
-En la mayoría de publicaciones, dedicar más espacio al negocio, problema y aprendizaje que a explicar el producto.
+No escribir encabezados dentro del post siguiendo esta estructura.
 
-Como orientación conceptual, no matemática:
+No convertir cada paso en un párrafo telegráfico.
 
-- la mayor parte del post debe ser conocimiento, contexto o problema;
-- una parte menor puede explicar la solución;
-- el producto y el CTA deben ocupar solo el espacio necesario.
+## Tono y ritmo
 
-No listar todas las posibilidades de una funcionalidad porque estén disponibles en la semilla.
+Buscar una voz:
 
-Una semilla puede generar muchos LinkedIn distintos, cada uno centrado en una única idea.
+- ágil;
+- fresca;
+- natural;
+- dinámica;
+- experta;
+- segura;
+- cercana;
+- fácil de leer.
 
-## Personalidad
+La contundencia debe estar en la observación, no en sonar solemne.
 
-El tono debe combinar:
+Preferir frases que parecen dichas por alguien que conoce bien el sector frente a formulaciones de consultoría.
 
-- agilidad;
-- frescura;
-- dinamismo;
-- experiencia;
-- contundencia;
-- conocimiento sectorial;
-- cercanía;
-- seguridad sin arrogancia.
+Evitar que todos los posts suenen como:
 
-Agendic debe sonar como una empresa que lleva años viendo la operativa real de centros deportivos.
+> problema → gran tesis → lista → producto → pregunta final.
 
-No sonar como:
+Variar el ritmo.
 
-- una consultora académica;
-- una marca juvenil que busca atención a cualquier precio;
-- un catálogo de software;
-- una nota de prensa;
-- un vendedor que convierte cualquier problema en una demo.
+Combinar frases cortas con párrafos algo más desarrollados.
 
-## Reglas de lenguaje fitness
+Utilizar listas solo cuando la propia situación las pide.
+
+No abusar de negritas, sentencias grandilocuentes ni preguntas retóricas.
+
+## Fluidez
+
+El texto debe poder leerse casi como una conversación profesional.
+
+Evitar transiciones rígidas como:
+
+- `El problema es...` repetido varias veces;
+- `La solución es...`;
+- `En conclusión...`;
+- `Por tanto...`;
+- `Aquí entra...`;
+- `Y es aquí donde...`.
+
+Preferir que una idea lleve naturalmente a la siguiente.
+
+No explicar una idea dos veces con palabras distintas.
+
+## Regla de la solución genérica
+
+La solución debe ser útil incluso para alguien que no usa Agendic.
+
+Puede expresarse como:
+
+- definir una regla;
+- ordenar un proceso;
+- automatizar una tarea;
+- centralizar una información;
+- establecer un criterio;
+- configurar una excepción;
+- medir un indicador;
+- revisar una rutina;
+- eliminar un paso manual.
+
+La semilla garantiza que existe una forma realista de resolverlo. LinkedIn comunica el aprendizaje.
+
+## Regla de la frase memorable
+
+Buscar una idea que tenga personalidad, pero no fabricar una frase de póster en cada publicación.
+
+Una buena frase memorable suele ser consecuencia natural del post.
+
+Ejemplo:
+
+> Una promoción sencilla por fuera necesita estar muy bien definida por dentro.
+
+No escribir frases grandilocuentes únicamente para parecer contundente.
+
+## CTA y cierre
+
+Por defecto, **no incluir CTA comercial**.
+
+El post puede terminar simplemente cuando la idea queda cerrada.
+
+También puede cerrar con:
+
+- una observación final;
+- una recomendación;
+- una pregunta genuina cuando aporte conversación;
+- una pequeña comprobación que el lector pueda hacer en su centro.
+
+Evitar:
+
+- `Pide una demo`;
+- `Descubre Agendic`;
+- `Conoce nuestra solución`;
+- rutas de menú;
+- enlaces de producto;
+- preguntas fabricadas solo para generar comentarios.
+
+## Lenguaje fitness
 
 Usar vocabulario del sector cuando ayude al reconocimiento:
 
@@ -235,59 +340,25 @@ Usar vocabulario del sector cuando ayude al reconocimiento:
 - sala;
 - recurso.
 
-Elegir términos según el tipo de negocio. No llamar `socio` a todo lector de Pilates o yoga si `alumno` o `cliente` resulta más natural.
+Elegir términos según el negocio. No llamar `socio` a todo lector de Pilates o yoga si `alumno` o `cliente` resulta más natural.
 
-## Reglas de autoridad
+## Autoridad y evidencia
+
+Demostrar experiencia mediante situaciones precisas y observaciones reconocibles.
+
+No afirmar que somos expertos: hacer que se note.
 
 Ser contundente con ideas y prudente con hechos.
 
 Permitido:
 
-> Una promoción que depende de que recepción recuerde todas sus excepciones no está bien resuelta.
+> Si una promoción cambia según quién esté en recepción, las reglas no están suficientemente definidas.
 
 No permitido sin evidencia:
 
 > El 40 % de los errores en promociones se produce en recepción.
 
-No inventar:
-
-- estadísticas;
-- benchmarks;
-- porcentajes;
-- resultados;
-- comportamientos generales del sector;
-- testimonios.
-
-Cuando exista evidencia válida, las cifras pueden reforzar la autoridad.
-
-## Regla de la frase memorable
-
-Intentar que cada publicación contenga al menos una idea que pueda recordarse o citarse de forma independiente.
-
-Ejemplos de construcción:
-
-- `Si necesitas estar presente para que todo funcione, tienes dependencia operativa.`
-- `Automatizar no es hacer más cosas: es dejar de repetir las mismas.`
-- `Una promoción que solo entiende quien la creó no tiene unas reglas claras.`
-
-No forzar frases grandilocuentes si la idea no las sostiene.
-
-## CTA
-
-No cerrar siempre con venta.
-
-Posibles cierres:
-
-- una pregunta que abra una conversación real;
-- una conclusión útil;
-- una pequeña lista para revisar en el centro;
-- una invitación a comparar la situación con su propia operativa;
-- un recurso;
-- una entrada o guía;
-- una capacidad de Agendic;
-- hablar con el equipo cuando tenga sentido comercial.
-
-Evitar preguntas genéricas fabricadas únicamente para conseguir comentarios.
+No inventar estadísticas, benchmarks, porcentajes, tendencias, resultados ni testimonios.
 
 ## Diferenciación entre publicaciones
 
@@ -311,15 +382,16 @@ Cambiar solo el titular no crea una nueva publicación.
 Antes de guardar, comprobar:
 
 1. ¿Está claro a qué perfil del centro hablamos?
-2. ¿Reconocería ese perfil la situación en las primeras líneas?
-3. ¿Hay una idea útil aunque eliminemos el nombre Agendic?
-4. ¿Hay una tesis que pueda recordar mañana?
-5. ¿Demostramos conocimiento del sector en lugar de afirmarlo?
-6. ¿El producto aparece solo si aporta valor a la historia?
-7. ¿Estamos explicando una única idea y no toda la funcionalidad?
-8. ¿Suena ágil y fresco sin perder autoridad?
-9. ¿Todos los datos y hechos están confirmados?
-10. ¿El cierre es natural y no una venta forzada?
+2. ¿Ese perfil puede reconocerse en las primeras líneas?
+3. ¿El contenido sería útil aunque lo publicara una persona y no una empresa de software?
+4. ¿Explicamos cómo abordar el problema sin convertirlo en una explicación de producto?
+5. ¿Hemos evitado mencionar Agendic por defecto?
+6. ¿La solución puede entenderse de forma genérica?
+7. ¿Demostramos experiencia mediante detalles reales del día a día?
+8. ¿Hay una sola idea principal?
+9. ¿Suena fluido, ágil y natural?
+10. ¿Todos los datos y hechos están confirmados?
+11. ¿Hemos cerrado cuando la idea termina, sin añadir venta innecesaria?
 
 ## Metadatos
 
@@ -331,5 +403,5 @@ canal: linkedin
 contenido: NNN
 estado: borrador
 publico: perfil principal
-formato: problema-operativo | tesis-gestion | caso-uso | descubrimiento-producto | consejo-metodo | historia-real | contexto-sector
+formato: problema-operativo | tesis-gestion | caso-uso | consejo-metodo | historia-real | contexto-sector | producto-explicito
 ```
