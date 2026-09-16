@@ -607,28 +607,338 @@ No debe intentar sustituir una entrada completa ni una guía operativa.
 
 # 23. LinkedIn
 
-LinkedIn funciona bien cuando la pieza contiene una observación reconocible o una idea profesional que merece reflexión.
+LinkedIn es el principal canal de **autoridad sectorial** de Agendic.
 
-Estructura útil:
+Su función no es demostrar constantemente lo que hace el software. Su función es ayudar a quienes gestionan centros deportivos a entender y resolver mejor los problemas de su negocio.
 
-1. observación o situación;
-2. por qué importa;
-3. aprendizaje o cambio de enfoque;
-4. cómo encaja Agendic;
-5. ejemplo o consecuencia;
-6. cierre.
+El posicionamiento editorial principal del canal es:
 
-No convertir el post en una nota de prensa.
+- gimnasios;
+- centros deportivos;
+- estudios de Pilates;
+- yoga;
+- entrenamiento personal;
+- centros boutique;
+- boxes y entrenamiento funcional;
+- boxeo y disciplinas similares;
+- otros negocios fitness con operativa comparable.
 
-Evitar empezar siempre por el nombre del producto.
+La percepción buscada es:
 
-No forzar preguntas al final solo para generar comentarios.
+> `Entienden perfectamente cómo funciona mi centro.`
 
-Una pregunta funciona cuando realmente abre conversación.
+Después:
 
-Los saltos de línea deben mejorar lectura, no fragmentar cada frase artificialmente.
+> `Saben cómo abordar problemas que vivo cada día.`
 
-Hashtags: pocos y solo si aportan clasificación o alcance relevante. No utilizarlos como relleno.
+Y solo después:
+
+> `Además, tienen una solución tecnológica que puede ayudarme.`
+
+## Conocimiento antes que producto
+
+LinkedIn debe aportar valor aunque el lector no esté buscando software.
+
+El producto no tiene que aparecer en todas las publicaciones.
+
+Cuando aparezca, debe hacerlo porque ayuda a demostrar una solución concreta, no porque necesitemos mencionar Agendic.
+
+Antes de redactar, hacer esta prueba:
+
+> **Si eliminamos temporalmente el nombre Agendic, ¿el post sigue teniendo algo útil que decir?**
+
+Si la respuesta es no, probablemente estamos demasiado cerca de una ficha de producto.
+
+## Elegir un lector principal
+
+No escribir para `un gimnasio` en abstracto.
+
+Cada publicación debe elegir un perfil principal y entender su realidad.
+
+### CEO / propietario
+
+Hablar de:
+
+- rentabilidad;
+- crecimiento;
+- dependencia operativa;
+- control global;
+- recurrencia;
+- eficiencia;
+- nuevas sedes;
+- tiempo estratégico.
+
+### Gerente
+
+Hablar de:
+
+- organización;
+- equipo;
+- incidencias;
+- ocupación;
+- cobros;
+- retención;
+- objetivos;
+- procesos;
+- seguimiento.
+
+### Director de centro o sede
+
+Hablar de:
+
+- operación diaria;
+- horarios;
+- clases;
+- salas y recursos;
+- entrenadores;
+- sustituciones;
+- accesos;
+- atención al socio.
+
+### Recepción / administración
+
+Hablar de:
+
+- interrupciones;
+- llamadas;
+- consultas repetitivas;
+- pagos;
+- reservas y cambios;
+- incidencias;
+- comprobaciones manuales;
+- información dispersa.
+
+### Entrenador / profesional
+
+Hablar de:
+
+- agenda;
+- asistencia;
+- información del cliente;
+- seguimiento;
+- comunicación;
+- tareas administrativas que restan tiempo a su trabajo principal.
+
+Pueden existir otros perfiles. Lo obligatorio es saber **quién debería reconocerse en el post**.
+
+## Tipos de publicación
+
+Alternar distintas familias para evitar que el feed parezca un catálogo de funcionalidades.
+
+### Problema operativo
+
+Mostrar una fricción cotidiana y sus consecuencias.
+
+### Tesis de gestión
+
+Defender una idea clara sobre cómo gestionar mejor un centro.
+
+### Caso de uso
+
+Construir una situación concreta que permita visualizar una mejor forma de trabajar.
+
+### Descubrimiento de producto
+
+Mostrar una capacidad útil o poco conocida de Agendic.
+
+### Consejo o método
+
+Dar una forma práctica de analizar, organizar o resolver un problema.
+
+### Historia real
+
+Utilizar clientes, equipo o experiencias únicamente con información validada y autorizada.
+
+### Contexto del sector
+
+Aportar criterio sobre situaciones, tendencias o cambios relevantes del fitness cuando existan fuentes suficientes.
+
+## Construir una tesis
+
+Cada publicación debería tener una idea que el lector pueda recordar al día siguiente.
+
+Ejemplos de construcción:
+
+> Si necesitas estar presente para que todo funcione, tienes dependencia operativa.
+
+> Automatizar no consiste en hacer más cosas. Consiste en dejar de repetir las mismas.
+
+> Una promoción que solo entiende quien la creó no tiene unas reglas claras.
+
+Ser contundente con las ideas y prudente con los hechos.
+
+No inventar estadísticas para dar autoridad a una opinión.
+
+## Estructura
+
+Una estructura especialmente útil es:
+
+**observación → tensión → tesis → aprendizaje/solución → Agendic si encaja → ejemplo → cierre**
+
+También puede utilizarse:
+
+**persona → situación → problema → reflexión → solución → producto si aporta valor**
+
+No tratar estas secuencias como plantillas rígidas.
+
+## Apertura
+
+Las primeras líneas deben provocar reconocimiento, no presentar la marca.
+
+Priorizar:
+
+- una afirmación con criterio;
+- una situación cotidiana;
+- un contraste;
+- una pregunta real;
+- una pequeña escena;
+- una consecuencia que normalmente pasa desapercibida.
+
+Evitar empezar por:
+
+- `En Agendic...`;
+- `Nuestra plataforma...`;
+- `Tenemos una funcionalidad...`;
+- `Hoy queremos enseñarte...`.
+
+Salvo que el producto sea realmente la noticia.
+
+## Profundidad
+
+En la mayoría de publicaciones, dedicar más espacio al negocio, al problema y al aprendizaje que al producto.
+
+La proporción es conceptual, no matemática:
+
+- mayoría: conocimiento, contexto, dolor o reflexión;
+- después: solución o criterio;
+- solo el espacio necesario: producto y CTA.
+
+Una publicación no tiene que explicar todo lo que sabemos sobre una funcionalidad.
+
+Elegir **una idea**.
+
+Una misma semilla puede producir muchos LinkedIn distintos para diferentes perfiles, dolores o tesis.
+
+## Lenguaje del sector
+
+Usar vocabulario fitness de forma natural cuando aporte reconocimiento:
+
+- centro;
+- sede;
+- socio;
+- abonado;
+- alumno;
+- clase;
+- sesión;
+- cuota;
+- bono;
+- entrenador;
+- recepción;
+- ocupación;
+- acceso;
+- baja;
+- renovación;
+- retención;
+- altas;
+- horario;
+- sala;
+- recurso.
+
+Elegir el término adecuado para el negocio concreto. Un estudio de Pilates puede hablar de alumnos o clientes donde un gimnasio hablaría de socios.
+
+No introducir lenguaje sectorial solo para aparentar especialización.
+
+## Personalidad
+
+LinkedIn debe sonar:
+
+- ágil;
+- fresco;
+- dinámico;
+- experto;
+- contundente;
+- cercano;
+- experimentado;
+- útil.
+
+Demostrar experiencia mediante la calidad de las observaciones y ejemplos.
+
+No afirmar constantemente que somos expertos.
+
+No sonar como:
+
+- una consultora académica;
+- una nota de prensa;
+- un catálogo de software;
+- una marca juvenil que busca atención a cualquier precio;
+- un vendedor que convierte cualquier reflexión en una solicitud de demo.
+
+## Autoridad y evidencia
+
+Ser contundente con una idea no autoriza a inventar hechos.
+
+Correcto:
+
+> Una promoción que depende de que recepción recuerde todas sus excepciones genera una operativa frágil.
+
+Incorrecto sin evidencia:
+
+> El 40 % de los errores promocionales se produce en recepción.
+
+No inventar:
+
+- estadísticas;
+- benchmarks;
+- porcentajes;
+- resultados;
+- tendencias;
+- comportamientos generales del sector;
+- testimonios.
+
+Cuando exista evidencia válida, utilizarla con precisión.
+
+## Cierre
+
+No cerrar siempre vendiendo.
+
+Un buen cierre puede ser:
+
+- una conclusión que refuerce la tesis;
+- una pregunta que abra una conversación real;
+- una pequeña lista de comprobación;
+- una invitación a revisar la operativa del centro;
+- un recurso;
+- una entrada completa;
+- una funcionalidad de Agendic;
+- una conversación comercial cuando de verdad sea el siguiente paso natural.
+
+No fabricar preguntas únicamente para aumentar comentarios.
+
+## Ritmo
+
+Utilizar párrafos breves y saltos de línea que faciliten la lectura.
+
+No separar cada frase en un párrafo si no existe una razón de ritmo o énfasis.
+
+Las listas funcionan especialmente bien para situaciones, síntomas, preguntas o criterios.
+
+## Hashtags
+
+Pocos y solo cuando aporten clasificación o alcance relevante.
+
+No utilizarlos como relleno ni convertir el final del post en una lista de etiquetas.
+
+## Pruebas específicas antes de publicar
+
+- ¿Está claro qué perfil del centro debería sentirse identificado?
+- ¿Reconoce una situación real en las primeras líneas?
+- ¿El post aporta algo aunque eliminemos Agendic?
+- ¿Existe una tesis o idea que pueda recordar mañana?
+- ¿Demostramos conocimiento del sector en lugar de decir que lo tenemos?
+- ¿Hay una sola idea principal?
+- ¿El producto aparece únicamente si ayuda a la historia?
+- ¿El tono es ágil y fresco sin perder autoridad?
+- ¿El cierre es natural?
 
 # 24. Instagram
 
