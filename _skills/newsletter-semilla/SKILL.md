@@ -14,12 +14,12 @@ Leer en `bookgy/editor`:
 - `_referencias/contexto.md`;
 - `_referencias/editorial.md`;
 - `_referencias/guia-redaccion.md`;
-- las semillas y entradas candidatas de `entradas/`.
+- las semillas y piezas candidatas de `entradas-editor/`.
 
 ## Flujo
 
 1. Identificar el objetivo de la edición.
-2. Revisar entradas existentes relevantes, aunque sean de meses anteriores.
+2. Revisar entradas existentes relevantes de `entradas-editor/`, aunque sean de meses anteriores.
 3. Seleccionar solo historias que aporten valor suficiente.
 4. Elegir una entrada protagonista.
 5. Elegir historias secundarias y agrupar temas menores cuando tenga sentido.
@@ -63,5 +63,5 @@ Leer en `bookgy/editor`:
 - No convertir la newsletter en un changelog.
 - No incluir temas solo porque sean nuevos.
 - Puede combinar novedades, mejoras, capacidades poco conocidas, consejos y casos de uso.
-- Una edición puede reutilizar entradas antiguas si son relevantes.
+- Una edición puede reutilizar entradas antiguas de `entradas-editor/` si son relevantes.
 - Crear inicialmente con `estado: borrador` salvo indicación expresa.
