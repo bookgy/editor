@@ -12,10 +12,12 @@ Crear una publicación para X derivada de una semilla existente.
 Leer:
 
 - `semilla.md`;
-- `entrada.md` si existe;
+- `blog.md` si existe;
 - los `x-NNN.md` existentes;
 - `_referencias/contexto.md`;
 - `_referencias/guia-redaccion.md`.
+
+El blog es una referencia opcional. X puede crearse directamente desde la semilla aunque `blog.md` no exista.
 
 ## Flujo
 
@@ -34,6 +36,7 @@ Leer:
 - No sacrificar precisión por brevedad.
 - No introducir hechos no presentes en la semilla sin verificarlos.
 - No utilizar información técnica interna.
+- No resumir mecánicamente `blog.md`: la pieza deriva de la semilla y debe adaptarse de forma nativa a X.
 
 ## Metadatos
 
