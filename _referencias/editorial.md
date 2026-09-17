@@ -21,7 +21,7 @@ No contiene conocimiento funcional del producto. Para confirmar hechos, consulta
 11. Propuesta de valor
 12. Ejemplos prácticos
 13. Ángulos editoriales
-14. Entrada principal
+14. Blog
 15. Contenidos por canal
 16. Reutilización y variedad
 17. Newsletters
@@ -199,7 +199,7 @@ Deben responder sobre todo a:
 
 ## Capa 2. Comprensión
 
-Entrada principal u otras piezas de contenido desarrolladas.
+Blog u otras piezas de contenido desarrolladas.
 
 Objetivo: explicar el problema, la respuesta y el uso práctico con suficiente contexto.
 
@@ -414,25 +414,27 @@ Una misma semilla puede producir varias piezas si cada una aporta un enfoque dif
 
 No variar solo el titular y llamar a eso un contenido nuevo.
 
-# 14. Entrada principal
+# 14. Blog
 
-`entrada.md` es la pieza canónica y desarrollada del tema.
+`blog.md` es la pieza desarrollada del tema para formato blog.
 
-Su función es **explicar y convencer**.
+Su función es **explicar y desarrollar** una historia con más profundidad cuando el tema lo merece.
 
 Debe ser suficientemente completa para entender la historia sin leer otras piezas.
+
+El blog es una pieza derivada de la semilla, no la fuente de verdad de los demás canales. LinkedIn, Instagram, X o TikTok pueden existir aunque no haya blog.
 
 Estructura orientativa:
 
 1. titular basado en problema, situación o resultado;
 2. apertura que demuestre por qué importa;
 3. situación o fricción reconocible;
-4. respuesta de Agendic;
+4. respuesta o forma de resolverlo;
 5. qué cambia para la empresa;
 6. ejemplo práctico;
 7. condiciones relevantes;
 8. cómo empezar o dónde continuar, si aporta valor;
-9. CTA.
+9. CTA cuando tenga sentido.
 
 No fijar una longitud rígida.
 
@@ -457,7 +459,7 @@ La numeración empieza en `001` y es independiente por canal.
 
 Cada archivo representa una publicación o concepto creativo autónomo.
 
-No son resúmenes automáticos de `entrada.md`.
+No son resúmenes automáticos de `blog.md`.
 
 Deben conservar:
 
@@ -554,7 +556,7 @@ No convertir esta pauta en una obligación numérica.
 
 La versión newsletter de un tema debe despertar interés y conducir a la siguiente capa de profundidad.
 
-No intentar reproducir la entrada completa dentro del correo.
+No intentar reproducir el blog completo dentro del correo.
 
 # 18. Prioridad y ciclo de vida
 
@@ -642,7 +644,7 @@ El CTA puede avanzar por niveles:
 
 - conocer la funcionalidad;
 - ver un ejemplo;
-- leer la entrada completa.
+- leer el blog completo.
 
 ## Entender
 
