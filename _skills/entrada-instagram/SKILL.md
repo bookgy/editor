@@ -14,8 +14,8 @@ Leer:
 - `semilla.md`;
 - `blog.md` si existe;
 - los `instagram-NNN.md` existentes;
-- `_referencias/contexto.md`;
-- `_referencias/guia-redaccion.md`.
+- `_reglas/contexto.md`;
+- `_reglas/guia-redaccion.md`.
 
 El blog es una referencia opcional. Instagram puede crearse directamente desde la semilla aunque `blog.md` no exista.
 
