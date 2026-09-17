@@ -24,10 +24,12 @@ No buscar que piense inmediatamente en software, demo o funcionalidad.
 Leer:
 
 - `semilla.md` de la entrada;
-- `entrada.md` si existe;
+- `blog.md` si existe;
 - los `linkedin-NNN.md` existentes de esa carpeta;
 - `_referencias/contexto.md`;
 - `_referencias/guia-redaccion.md`, especialmente la sección `LinkedIn`.
+
+`blog.md` es una referencia opcional. LinkedIn puede crearse directamente desde la semilla y no debe ser un resumen automático del blog.
 
 ## Posicionamiento específico del canal
 
@@ -84,8 +86,6 @@ No enumerar opciones del software salvo que sean imprescindibles para explicar e
 Cada publicación debe tener **un perfil principal** y **un dolor principal**.
 
 No basta con declarar `publico: gerente` en los metadatos. El texto debe contener suficientes señales para que ese gerente pueda reconocerse.
-
-No escribir para `el gimnasio` como una entidad abstracta.
 
 Antes de redactar completar mentalmente:
 
@@ -160,27 +160,11 @@ Elegir conscientemente una variante según la idea, el momento y el material dis
 
 ### 1. Insight breve
 
-Una observación muy concreta y útil.
-
-Puede ser corta, pero debe tener:
-
-- lector reconocible;
-- dolor concreto;
-- idea suficiente por sí misma.
-
-No confundir brevedad con generalidad.
+Una observación muy concreta y útil. Puede ser corta, pero debe tener lector reconocible, dolor concreto e idea suficiente por sí misma.
 
 ### 2. Tesis desarrollada
 
-Partir de un gancho fuerte y desarrollar:
-
-- la situación;
-- por qué importa;
-- dónde aparece la fricción;
-- el criterio para resolverla;
-- un ejemplo o consecuencia práctica.
-
-Adecuada cuando el tema necesita demostrar conocimiento y no cabe en tres párrafos.
+Partir de un gancho fuerte y desarrollar la situación, por qué importa, dónde aparece la fricción, el criterio para resolverla y un ejemplo o consecuencia práctica.
 
 ### 3. Escena operativa
 
@@ -226,7 +210,7 @@ Un post largo no es mejor por ser largo. Un post corto no es mejor por ser ágil
 
 ## Flujo
 
-1. Revisar semilla, entrada principal y LinkedIn existentes.
+1. Revisar semilla, `blog.md` si existe y LinkedIn anteriores.
 2. Elegir un único perfil principal.
 3. Identificar una situación específica que ese perfil reconoce.
 4. Definir el dolor principal y su consecuencia operativa.
