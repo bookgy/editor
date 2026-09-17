@@ -145,3 +145,34 @@ El registro resume la decisión. La regla operativa completa debe vivir también
   - Cuando un gancho abra una tensión relevante, desarrollar suficientemente el problema, sus consecuencias y el criterio para resolverlo.
   - Evitar dolores abstractos como `mejorar la gestión`, `tener más control` o `ser más eficiente` cuando puedan concretarse en una situación operativa.
   - Incorporar en los metadatos `dolor` y `profundidad` para hacer explícitas estas decisiones editoriales.
+
+## DEC-2026-09-007 — La pieza desarrollada pasa de entrada a blog
+
+- fecha: 2026-09-17
+- estado: vigente
+- alcance: global
+- afecta a:
+  - `README.md`
+  - `_skills/README.md`
+  - `_skills/entrada-blog/SKILL.md`
+  - `_skills/entrada-blog/agents/openai.yaml`
+  - `_skills/entrada-linkedin/SKILL.md`
+  - `_skills/entrada-instagram/SKILL.md`
+  - `_skills/entrada-x/SKILL.md`
+  - `_skills/entrada-tiktok/SKILL.md`
+  - `_skills/newsletter/SKILL.md`
+  - `_referencias/editorial.md`
+  - `_referencias/guia-redaccion.md`
+  - `entradas/2026-09-001-cupones-promocionales/blog.md`
+- decisión:
+  - La Skill genérica `entrada` deja de existir y pasa a llamarse `entrada-blog`.
+  - La pieza desarrollada deja de llamarse `entrada.md` y pasa a llamarse `blog.md`.
+  - `entrada-semilla`, `entrada-linkedin`, `entrada-instagram`, `entrada-x` y `entrada-tiktok` mantienen sus nombres.
+  - La carpeta raíz `entradas/` mantiene su nombre porque representa temas editoriales, no únicamente publicaciones de blog.
+  - El blog es una pieza derivada de la semilla y no un paso obligatorio previo a los demás canales.
+- aplicación:
+  - La estructura de Skills utiliza `_skills/entrada-blog/` en lugar de `_skills/entrada/`.
+  - Las Skills de canal leen `blog.md` solo si existe y nunca dependen de él para crear una pieza.
+  - Los canales no deben ser resúmenes automáticos del blog; todos derivan de la misma `semilla.md`.
+  - Las referencias generales sustituyen el concepto `entrada principal` por `blog` cuando hablan de la pieza desarrollada.
+  - El contenido existente `entrada.md` de la semilla `2026-09-001` se migra a `blog.md` sin alterar su contenido editorial.
