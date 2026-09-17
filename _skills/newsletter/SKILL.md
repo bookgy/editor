@@ -14,9 +14,9 @@ Leer:
 - `newsletters/AAAA-MM-NNN/semilla.md`;
 - las `semilla.md` de todas las entradas seleccionadas;
 - sus `blog.md` cuando existan y aporten contexto útil;
-- `_referencias/contexto.md`;
-- `_referencias/editorial.md`;
-- `_referencias/guia-redaccion.md`.
+- `_reglas/contexto.md`;
+- `_reglas/editorial.md`;
+- `_reglas/guia-redaccion.md`.
 
 El blog es una referencia opcional. Una entrada puede formar parte de una newsletter aunque no tenga `blog.md`.
 
