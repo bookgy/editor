@@ -1,8 +1,12 @@
 # Skills del Editor
 
-Las Skills se mantienen pequeñas y especializadas. Todas comparten las reglas de `_fuentes/` y `_reglas/`.
+Las Skills se mantienen pequeñas y especializadas. Son la capa de ejecución del Editor y comparten las reglas de `_fuentes/` y `_reglas/`.
 
 Los temas editoriales y todas sus piezas se almacenan en `bookgy/editor/entradas-editor/`.
+
+Los agentes definidos en `_agentes/` pueden coordinar una o varias Skills para resolver encargos más amplios. Las Skills también pueden invocarse directamente cuando el usuario pide una tarea concreta.
+
+Regla de diseño: **los agentes no deben duplicar las instrucciones detalladas de las Skills**. El agente decide qué debe hacerse y con qué alcance; la Skill define cómo ejecutar correctamente cada pieza.
 
 - `entrada-semilla`: crea la semilla maestra de un tema dentro de `entradas-editor/`.
 - `entrada-blog`: crea el blog desarrollado a partir de una semilla.
