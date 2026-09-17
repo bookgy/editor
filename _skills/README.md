@@ -1,6 +1,6 @@
 # Skills del Editor
 
-Las Skills se mantienen pequeñas y especializadas. Todas comparten las reglas de `_fuentes/` y `_referencias/`.
+Las Skills se mantienen pequeñas y especializadas. Todas comparten las reglas de `_fuentes/` y `_reglas/`.
 
 Los temas editoriales y todas sus piezas se almacenan en `bookgy/editor/entradas-editor/`.
 
