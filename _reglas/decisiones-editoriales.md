@@ -10,7 +10,7 @@ Su objetivo es evitar que un criterio editorial dependa de una conversación, de
 
 Cuando el usuario aporte un comentario, corrección o criterio que cambie la forma de trabajar:
 
-1. identificar si afecta a todo el Editor, a un canal, a una Skill, a una semilla o a una pieza concreta;
+1. identificar si afecta a todo el Editor, a un canal, a un agente, a una Skill, a una semilla o a una pieza concreta;
 2. aplicar el cambio en el archivo canónico correspondiente;
 3. registrar aquí la decisión de forma estructurada;
 4. indicar los archivos afectados;
