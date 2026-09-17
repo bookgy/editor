@@ -1,6 +1,6 @@
 # Editor de Agendic
 
-Repositorio editorial de Agendic. Reúne las fuentes autorizadas, las referencias comunes, las Skills y el contenido creado para los distintos canales.
+Repositorio editorial de Agendic. Reúne las fuentes autorizadas, las reglas comunes, las Skills y el contenido creado para los distintos canales.
 
 ## Estructura
 
@@ -9,7 +9,7 @@ editor/
 ├── README.md
 ├── _fuentes/
 │   └── oraculo.md
-├── _referencias/
+├── _reglas/
 │   ├── contexto.md
 │   ├── editorial.md
 │   ├── guia-redaccion.md
@@ -30,7 +30,7 @@ editor/
 ## Qué representa cada carpeta
 
 - `_fuentes/`: define de dónde puede obtenerse información factual sobre Agendic.
-- `_referencias/`: define el contexto, el criterio editorial, la forma de redactar y el registro de decisiones.
+- `_reglas/`: define el contexto, el criterio editorial, la forma de redactar y el registro de decisiones.
 - `_skills/`: contiene los procesos que puede ejecutar la IA.
 - `entradas-editor/`: guarda cada tema editorial, su semilla y todos los contenidos derivados de ella.
 - `newsletters/`: guarda cada edición de newsletter y su composición.
@@ -66,7 +66,7 @@ Cuando exista feedback editorial:
 
 1. identificar su alcance: global, canal, Skill, semilla o contenido concreto;
 2. modificar el archivo canónico correspondiente dentro del repositorio;
-3. registrar la decisión en `_referencias/decisiones-editoriales.md`;
+3. registrar la decisión en `_reglas/decisiones-editoriales.md`;
 4. indicar allí qué archivos se han visto afectados;
 5. si una decisión sustituye a otra anterior, dejar trazabilidad de la sustitución.
 
