@@ -67,7 +67,7 @@ El registro resume la decisión. La regla operativa completa debe vivir también
 - afecta a:
   - `_referencias/guia-redaccion.md`
   - `_skills/entrada-linkedin/SKILL.md`
-  - `entradas/2026-09-001-cupones-promocionales/linkedin-001.md`
+  - `entradas-editor/2026-09-001-cupones-promocionales/linkedin-001.md`
 - decisión:
   - Por defecto, una publicación de LinkedIn no debe mencionar `Agendic` ni presentar el producto como la solución.
   - La marca ya está presente en la cuenta que publica.
@@ -85,7 +85,7 @@ El registro resume la decisión. La regla operativa completa debe vivir también
 - afecta a:
   - `_referencias/guia-redaccion.md`
   - `_skills/entrada-linkedin/SKILL.md`
-  - `entradas/2026-09-001-cupones-promocionales/linkedin-001.md`
+  - `entradas-editor/2026-09-001-cupones-promocionales/linkedin-001.md`
 - decisión:
   - Las publicaciones deben sentirse como una conversación profesional bien pensada, no como una plantilla de marketing o una tesis de consultoría.
 - aplicación:
@@ -102,7 +102,7 @@ El registro resume la decisión. La regla operativa completa debe vivir también
 - afecta a:
   - `_referencias/guia-redaccion.md`
   - `_skills/entrada-linkedin/SKILL.md`
-  - `entradas/2026-09-001-cupones-promocionales/linkedin-001.md`
+  - `entradas-editor/2026-09-001-cupones-promocionales/linkedin-001.md`
 - decisión:
   - Algunas publicaciones pueden cerrar abriendo conversación con una pregunta concreta sobre la experiencia u operativa real del lector.
   - No utilizar preguntas genéricas únicamente para provocar comentarios.
@@ -133,7 +133,7 @@ El registro resume la decisión. La regla operativa completa debe vivir también
 - alcance: canal
 - afecta a:
   - `_skills/entrada-linkedin/SKILL.md`
-  - `entradas/2026-09-001-cupones-promocionales/linkedin-002.md`
+  - `entradas-editor/2026-09-001-cupones-promocionales/linkedin-002.md`
 - decisión:
   - Las publicaciones de LinkedIn no deben compartir una misma plantilla, longitud o estructura.
   - La variedad de formato no puede utilizarse como excusa para escribir contenido genérico.
@@ -163,16 +163,44 @@ El registro resume la decisión. La regla operativa completa debe vivir también
   - `_skills/newsletter/SKILL.md`
   - `_referencias/editorial.md`
   - `_referencias/guia-redaccion.md`
-  - `entradas/2026-09-001-cupones-promocionales/blog.md`
+  - `entradas-editor/2026-09-001-cupones-promocionales/blog.md`
 - decisión:
   - La Skill genérica `entrada` deja de existir y pasa a llamarse `entrada-blog`.
   - La pieza desarrollada deja de llamarse `entrada.md` y pasa a llamarse `blog.md`.
   - `entrada-semilla`, `entrada-linkedin`, `entrada-instagram`, `entrada-x` y `entrada-tiktok` mantienen sus nombres.
-  - La carpeta raíz `entradas/` mantiene su nombre porque representa temas editoriales, no únicamente publicaciones de blog.
   - El blog es una pieza derivada de la semilla y no un paso obligatorio previo a los demás canales.
 - aplicación:
   - La estructura de Skills utiliza `_skills/entrada-blog/` en lugar de `_skills/entrada/`.
   - Las Skills de canal leen `blog.md` solo si existe y nunca dependen de él para crear una pieza.
   - Los canales no deben ser resúmenes automáticos del blog; todos derivan de la misma `semilla.md`.
   - Las referencias generales sustituyen el concepto `entrada principal` por `blog` cuando hablan de la pieza desarrollada.
-  - El contenido existente `entrada.md` de la semilla `2026-09-001` se migra a `blog.md` sin alterar su contenido editorial.
+  - El contenido existente `entrada.md` de la semilla `2026-09-001` se migró a `blog.md` sin alterar su contenido editorial.
+- notas:
+  - La decisión original mantenía el nombre de carpeta raíz `entradas/`. Ese punto queda sustituido por `DEC-2026-09-008`; el resto de esta decisión sigue vigente.
+
+## DEC-2026-09-008 — La carpeta editorial pasa a llamarse entradas-editor
+
+- fecha: 2026-09-17
+- estado: vigente
+- alcance: global
+- afecta a:
+  - `README.md`
+  - `_skills/README.md`
+  - `_skills/entrada-semilla/SKILL.md`
+  - `_skills/entrada-blog/SKILL.md`
+  - `_skills/newsletter-semilla/SKILL.md`
+  - `_referencias/decisiones-editoriales.md`
+  - `entradas-editor/2026-09-001-cupones-promocionales/semilla.md`
+  - `entradas-editor/2026-09-001-cupones-promocionales/blog.md`
+  - `entradas-editor/2026-09-001-cupones-promocionales/linkedin-001.md`
+  - `entradas-editor/2026-09-001-cupones-promocionales/linkedin-002.md`
+- decisión:
+  - La carpeta raíz que contiene los temas editoriales pasa de `entradas/` a `entradas-editor/`.
+  - Este cambio afecta a la ruta física y a todas las instrucciones que utilizan esa ruta; no cambia los nombres de las Skills `entrada-*` ni el concepto editorial de entrada.
+  - `entradas-editor/` es la ubicación canónica para semillas, blogs y piezas por canal derivadas de cada tema.
+- aplicación:
+  - Crear nuevos temas en `bookgy/editor/entradas-editor/AAAA-MM-NNN-contenido/`.
+  - Buscar y reutilizar temas existentes únicamente desde `entradas-editor/`.
+  - Migrar el contenido existente de `entradas/2026-09-001-cupones-promocionales/` a `entradas-editor/2026-09-001-cupones-promocionales/` sin alterar su contenido.
+  - Retirar la carpeta `entradas/` una vez comprobada la migración.
+- sustituye a: parte de `DEC-2026-09-007` relativa al nombre de la carpeta raíz.
