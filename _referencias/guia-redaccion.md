@@ -30,7 +30,7 @@ Debe utilizarse junto con:
 18. Contenido sectorial
 19. CTA
 20. Imágenes y creatividades
-21. Entrada principal
+21. Blog
 22. Newsletter
 23. LinkedIn
 24. Instagram
@@ -344,9 +344,9 @@ No llenar la imagen de texto.
 
 La creatividad no puede introducir una promesa más fuerte que el copy.
 
-# 21. Entrada principal
+# 21. Blog
 
-La entrada principal debe explicar la historia completa.
+El blog debe explicar la historia completa con la profundidad que el tema necesite.
 
 Estructura orientativa:
 
@@ -358,7 +358,9 @@ Estructura orientativa:
 6. condiciones relevantes;
 7. siguiente paso.
 
-No convertirla en una lista enciclopédica de funcionalidades.
+No convertirlo en una lista enciclopédica de funcionalidades.
+
+El blog es una pieza derivada de la semilla. No es obligatorio crear `blog.md` antes de redactar otros canales.
 
 # 22. Newsletter
 
@@ -372,7 +374,7 @@ La newsletter debe poder entenderse rápidamente mediante:
 
 La historia protagonista debe tener más jerarquía que las secundarias.
 
-La newsletter despierta interés; no debe sustituir una entrada completa ni una guía operativa.
+La newsletter despierta interés; no debe sustituir un blog completo ni una guía operativa.
 
 # 23. LinkedIn
 
@@ -676,7 +678,7 @@ Usar emojis con moderación y solo cuando aporten ritmo o contexto.
 
 Reducir el contenido a una idea fuerte y específica.
 
-No intentar meter toda la entrada en una publicación.
+No intentar meter todo el blog en una publicación.
 
 Priorizar:
 
