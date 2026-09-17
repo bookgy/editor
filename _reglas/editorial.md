@@ -32,6 +32,7 @@ No contiene conocimiento funcional del producto. Para confirmar hechos, consulta
 22. CTA y siguiente paso
 23. Reglas de coherencia
 24. Criterio de calidad editorial
+25. Planificación editorial y descubrimiento
 
 # 1. Misión editorial
 
@@ -697,3 +698,69 @@ Una pieza está preparada cuando puede responder afirmativamente a estas pregunt
 Si la pieza es correcta pero indiferente, todavía no está terminada.
 
 El objetivo no es únicamente evitar errores. Es conseguir que el contenido sea **útil, reconocible y accionable**.
+
+
+# 25. Planificación editorial y descubrimiento
+
+La planificación editorial debe decidir **qué merece tratarse y por qué en ese momento**, no limitarse a colocar contenidos en fechas libres.
+
+Puede trabajar por semana, mes, trimestre, campaña o evento.
+
+## Qué debe tener en cuenta
+
+Cuando sea relevante:
+
+- época del año;
+- estacionalidad del sector;
+- inicio y final de temporada;
+- vacaciones y vuelta a la actividad;
+- campañas comerciales;
+- fechas señaladas;
+- ferias, congresos y eventos;
+- cambios normativos y plazos;
+- acontecimientos del sector;
+- necesidades operativas propias de ese momento;
+- contenido publicado recientemente;
+- semillas existentes todavía útiles;
+- equilibrio de públicos, dolores, territorios, formatos y canales.
+
+Una fecha externa no convierte automáticamente un tema en oportuno. Debe existir una relación clara con la audiencia y con una historia que Agendic pueda sostener.
+
+## Descubrimiento de ideas dentro de la planificación
+
+La búsqueda de nuevas ideas forma parte del trabajo de planificación.
+
+Antes de proponer un tema nuevo:
+
+1. revisar si ya existe una semilla adecuada;
+2. comprobar si una semilla antigua puede reutilizarse con un nuevo momento, público o ángulo;
+3. identificar huecos reales del calendario;
+4. explorar las fuentes autorizadas para encontrar capacidades, casos de uso o problemas todavía no tratados;
+5. comprobar que la oportunidad puede sostenerse con hechos confirmados.
+
+No crear una semilla distinta solo porque cambie la fecha, el titular o el canal.
+
+## Información actual
+
+Cuando el calendario dependa de eventos, normativa, tendencias o fechas que puedan cambiar, comprobar una fuente actual antes de incorporarlos.
+
+La fuente externa valida el contexto exterior. Los hechos sobre Agendic siguen dependiendo de la fuente factual autorizada definida en `_fuentes/oraculo.md`.
+
+## Salida de planificación
+
+Una propuesta de calendario debería permitir conocer, cuando aplique:
+
+- fecha o ventana;
+- tema;
+- público principal;
+- dolor o necesidad;
+- canal;
+- formato o profundidad;
+- por qué ahora;
+- semilla existente, si la hay;
+- acción necesaria: reutilizar, crear semilla, desarrollar o revisar;
+- fuente pendiente de validar cuando el tema todavía sea una oportunidad.
+
+No llenar el calendario con contenido débil solo para mantener frecuencia.
+
+La planificación propone y prioriza. Crear semillas o piezas es una fase posterior salvo que el usuario pida expresamente ejecutar también esas fases.
