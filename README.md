@@ -67,7 +67,7 @@ El blog no es un paso obligatorio previo para crear los demás canales. Todas la
 
 La información factual sobre el producto procede únicamente de la fuente definida en `_fuentes/oraculo.md`.
 
-Las Skills pueden leer el Oráculo, pero nunca modificarlo.
+Los agentes y las Skills pueden consultar el Oráculo cuando el flujo lo requiera, pero nunca modificarlo.
 
 ## Agentes y Skills
 
@@ -98,13 +98,13 @@ Una regla, corrección, preferencia o aprendizaje que cambie la forma de trabaja
 
 Cuando exista feedback editorial:
 
-1. identificar su alcance: global, canal, Skill, semilla o contenido concreto;
+1. identificar su alcance: global, canal, agente, Skill, semilla o contenido concreto;
 2. modificar el archivo canónico correspondiente dentro del repositorio;
 3. registrar la decisión en `_reglas/decisiones-editoriales.md`;
 4. indicar allí qué archivos se han visto afectados;
 5. si una decisión sustituye a otra anterior, dejar trazabilidad de la sustitución.
 
-El registro de decisiones conserva el historial y la razón del cambio. La regla operativa vigente debe quedar también integrada en el archivo que realmente utiliza el Editor: `contexto.md`, `editorial.md`, `guia-redaccion.md`, una Skill o la pieza concreta que corresponda.
+El registro de decisiones conserva el historial y la razón del cambio. La regla operativa vigente debe quedar también integrada en el archivo que realmente utiliza el Editor: `contexto.md`, `editorial.md`, `guia-redaccion.md`, un agente, una Skill o la pieza concreta que corresponda.
 
 De esta forma, una nueva conversación o una nueva ejecución puede reconstruir el criterio editorial únicamente leyendo el repositorio.
 
