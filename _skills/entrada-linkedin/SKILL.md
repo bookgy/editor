@@ -26,8 +26,8 @@ Leer:
 - `semilla.md` de la entrada;
 - `blog.md` si existe;
 - los `linkedin-NNN.md` existentes de esa carpeta;
-- `_referencias/contexto.md`;
-- `_referencias/guia-redaccion.md`, especialmente la sección `LinkedIn`.
+- `_reglas/contexto.md`;
+- `_reglas/guia-redaccion.md`, especialmente la sección `LinkedIn`.
 
 `blog.md` es una referencia opcional. LinkedIn puede crearse directamente desde la semilla y no debe ser un resumen automático del blog.
 
