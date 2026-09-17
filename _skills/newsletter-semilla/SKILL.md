@@ -11,9 +11,9 @@ Crear la composición editorial de una nueva newsletter.
 
 Leer en `bookgy/editor`:
 
-- `_referencias/contexto.md`;
-- `_referencias/editorial.md`;
-- `_referencias/guia-redaccion.md`;
+- `_reglas/contexto.md`;
+- `_reglas/editorial.md`;
+- `_reglas/guia-redaccion.md`;
 - las semillas y piezas candidatas de `entradas-editor/`.
 
 ## Flujo
