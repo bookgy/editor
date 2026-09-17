@@ -16,7 +16,7 @@ editor/
 │   └── decisiones-editoriales.md
 ├── _skills/
 │   ├── entrada-semilla/
-│   ├── entrada/
+│   ├── entrada-blog/
 │   ├── entrada-linkedin/
 │   ├── entrada-instagram/
 │   ├── entrada-x/
@@ -32,14 +32,25 @@ editor/
 - `_fuentes/`: define de dónde puede obtenerse información factual sobre Agendic.
 - `_referencias/`: define el contexto, el criterio editorial, la forma de redactar y el registro de decisiones.
 - `_skills/`: contiene los procesos que puede ejecutar la IA.
-- `entradas/`: guarda cada tema editorial y todos los contenidos derivados de él.
+- `entradas/`: guarda cada tema editorial, su semilla y todos los contenidos derivados de ella.
 - `newsletters/`: guarda cada edición de newsletter y su composición.
 
 ## Principio general
 
 El flujo editorial es:
 
-**fuente confirmada → semilla → entrada principal → contenidos por canal → newsletter cuando corresponda**
+**fuente confirmada → semilla → piezas derivadas por canal**
+
+A partir de una misma semilla pueden crearse, de forma independiente:
+
+- un blog;
+- una o varias publicaciones de LinkedIn;
+- una o varias publicaciones de Instagram;
+- una o varias publicaciones para X;
+- una o varias piezas de TikTok;
+- contenidos que después puedan formar parte de una newsletter.
+
+El blog no es un paso obligatorio previo para crear los demás canales. Todas las piezas derivan de la misma semilla y comparten sus hechos, límites y condiciones.
 
 La información factual sobre el producto procede únicamente de la fuente definida en `_fuentes/oraculo.md`.
 
@@ -86,7 +97,7 @@ Una misma entrada puede producir tantos contenidos como sea necesario:
 ```text
 2026-09-001-cupones-promociones/
 ├── semilla.md
-├── entrada.md
+├── blog.md
 ├── linkedin-001.md
 ├── linkedin-002.md
 ├── instagram-001.md
@@ -96,6 +107,8 @@ Una misma entrada puede producir tantos contenidos como sea necesario:
 ```
 
 La numeración es independiente para cada canal. `linkedin-001.md` no tiene relación obligatoria con `instagram-001.md`.
+
+`blog.md` es la pieza desarrollada para formato blog. Puede existir o no; los demás canales no dependen de ella.
 
 Todos los contenidos de una carpeta derivan de la misma semilla y deben mantener los mismos hechos, límites y condiciones funcionales.
 
