@@ -12,10 +12,12 @@ Crear una publicación de Instagram como una pieza completa: mensaje + enfoque c
 Leer:
 
 - `semilla.md`;
-- `entrada.md` si existe;
+- `blog.md` si existe;
 - los `instagram-NNN.md` existentes;
 - `_referencias/contexto.md`;
 - `_referencias/guia-redaccion.md`.
+
+El blog es una referencia opcional. Instagram puede crearse directamente desde la semilla aunque `blog.md` no exista.
 
 ## Flujo
 
@@ -46,6 +48,7 @@ Leer:
 - No introducir información técnica interna.
 - No inventar capacidades ni resultados.
 - Crear un contenido nuevo cuando haya una razón editorial o creativa, no solo para cambiar palabras.
+- No resumir mecánicamente `blog.md`: la pieza deriva de la semilla y debe adaptarse de forma nativa a Instagram.
 
 ## Metadatos
 
