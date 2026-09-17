@@ -23,7 +23,7 @@ editor/
 │   ├── entrada-tiktok/
 │   ├── newsletter-semilla/
 │   └── newsletter/
-├── entradas/
+├── entradas-editor/
 └── newsletters/
 ```
 
@@ -32,7 +32,7 @@ editor/
 - `_fuentes/`: define de dónde puede obtenerse información factual sobre Agendic.
 - `_referencias/`: define el contexto, el criterio editorial, la forma de redactar y el registro de decisiones.
 - `_skills/`: contiene los procesos que puede ejecutar la IA.
-- `entradas/`: guarda cada tema editorial, su semilla y todos los contenidos derivados de ella.
+- `entradas-editor/`: guarda cada tema editorial, su semilla y todos los contenidos derivados de ella.
 - `newsletters/`: guarda cada edición de newsletter y su composición.
 
 ## Principio general
@@ -76,13 +76,13 @@ De esta forma, una nueva conversación o una nueva ejecución puede reconstruir 
 
 ## Identificación de entradas
 
-Cada tema se guarda en una carpeta con este formato:
+Cada tema se guarda dentro de `entradas-editor/` en una carpeta con este formato:
 
 `AAAA-MM-NNN-contenido`
 
 Ejemplo:
 
-`2026-09-001-cupones-promociones`
+`entradas-editor/2026-09-001-cupones-promociones`
 
 Su identificador permanente es:
 
@@ -95,7 +95,7 @@ El contador `NNN` se reinicia cada mes.
 Una misma entrada puede producir tantos contenidos como sea necesario:
 
 ```text
-2026-09-001-cupones-promociones/
+entradas-editor/2026-09-001-cupones-promociones/
 ├── semilla.md
 ├── blog.md
 ├── linkedin-001.md
@@ -128,7 +128,7 @@ newsletters/2026-09-001/
 └── newsletter.md
 ```
 
-Una newsletter puede utilizar entradas creadas en cualquier mes.
+Una newsletter puede utilizar entradas creadas en cualquier mes desde `entradas-editor/`.
 
 ## Reglas esenciales
 
