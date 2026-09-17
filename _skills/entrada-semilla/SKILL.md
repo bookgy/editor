@@ -1,6 +1,6 @@
 ---
 name: entrada-semilla
-description: "Crear una nueva semilla editorial de Agendic a partir de información funcional confirmada. Usar cuando el usuario quiera convertir una funcionalidad, mejora, consejo, caso de uso o cambio relevante en un nuevo tema editorial dentro de bookgy/editor/entradas. Consultar bookgy/oraculo únicamente como fuente de verdad y no modificarlo."
+description: "Crear una nueva semilla editorial de Agendic a partir de información funcional confirmada. Usar cuando el usuario quiera convertir una funcionalidad, mejora, consejo, caso de uso o cambio relevante en un nuevo tema editorial dentro de bookgy/editor/entradas-editor. Consultar bookgy/oraculo únicamente como fuente de verdad y no modificarlo."
 ---
 
 # Entrada Semilla
@@ -26,14 +26,14 @@ Antes de trabajar, leer en `bookgy/editor`:
 6. Crear un ejemplo práctico compatible con los hechos confirmados.
 7. Definir una única idea editorial principal.
 8. Determinar `ámbito`, usando `General` por defecto.
-9. Calcular el siguiente `semilla_id` disponible del mes en `entradas/`.
-10. Crear `entradas/AAAA-MM-NNN-contenido/semilla.md` siguiendo la estructura de `_referencias/editorial.md`.
+9. Calcular el siguiente `semilla_id` disponible del mes en `entradas-editor/`.
+10. Crear `entradas-editor/AAAA-MM-NNN-contenido/semilla.md` siguiendo la estructura de `_referencias/editorial.md`.
 
 ## Numeración
 
 Usar `AAAA-MM-NNN`.
 
-Reiniciar `NNN` cada mes y utilizar el siguiente número libre existente en `bookgy/editor/entradas/`.
+Reiniciar `NNN` cada mes y utilizar el siguiente número libre existente en `bookgy/editor/entradas-editor/`.
 
 No reutilizar un identificador ya existente.
 
@@ -49,6 +49,6 @@ No reutilizar un identificador ya existente.
 
 ## Resultado
 
-Guardar la semilla en GitHub cuando el usuario haya pedido crearla o trabajar directamente en el repositorio.
+Guardar la semilla en `bookgy/editor/entradas-editor/AAAA-MM-NNN-contenido/semilla.md` cuando el usuario haya pedido crearla o trabajar directamente en el repositorio.
 
 Al terminar, indicar el `semilla_id`, la carpeta creada y la idea editorial principal.
