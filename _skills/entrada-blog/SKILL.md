@@ -1,11 +1,13 @@
 ---
 name: entrada-blog
-description: "Crear o mejorar el blog editorial desarrollado de un tema de Agendic a partir de su semilla. Usar cuando el usuario pida desarrollar en profundidad una historia ya registrada en bookgy/editor/entradas, manteniendo los hechos confirmados y explicando el problema, el valor y el uso práctico sin información técnica interna. Guardar la pieza como blog.md."
+description: "Crear o mejorar el blog editorial desarrollado de un tema de Agendic a partir de su semilla. Usar cuando el usuario pida desarrollar en profundidad una historia ya registrada en bookgy/editor/entradas-editor, manteniendo los hechos confirmados y explicando el problema, el valor y el uso práctico sin información técnica interna. Guardar la pieza como blog.md."
 ---
 
 # Entrada Blog
 
 Crear `blog.md`, la pieza editorial desarrollada de una semilla para formato blog.
+
+Los temas editoriales se almacenan en `bookgy/editor/entradas-editor/`.
 
 El blog es una pieza derivada de la semilla, al mismo nivel conceptual que LinkedIn, Instagram, X o TikTok, aunque normalmente tenga mayor profundidad.
 
@@ -15,7 +17,7 @@ No es obligatorio crear un blog para poder generar contenidos de otros canales.
 
 Leer en `bookgy/editor`:
 
-- la `semilla.md` de la entrada;
+- la `semilla.md` del tema dentro de `entradas-editor/`;
 - `_referencias/contexto.md`;
 - `_referencias/editorial.md`;
 - `_referencias/guia-redaccion.md`.
@@ -34,7 +36,7 @@ Consultar `_fuentes/oraculo.md` solo si es necesario volver a comprobar un hecho
 8. Incluir un ejemplo práctico cuando ayude a visualizar el uso.
 9. Añadir condiciones, matices o cómo empezar únicamente cuando estén confirmados y aporten valor.
 10. Cerrar con el siguiente paso más natural para la pieza.
-11. Guardar el resultado como `blog.md` en la misma carpeta de la semilla.
+11. Guardar el resultado como `blog.md` en la misma carpeta de la semilla dentro de `entradas-editor/`.
 
 ## Reglas
 
