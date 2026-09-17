@@ -12,9 +12,9 @@ Crear la semilla maestra de un nuevo tema editorial.
 Antes de trabajar, leer en `bookgy/editor`:
 
 - `_fuentes/oraculo.md`
-- `_referencias/contexto.md`
-- `_referencias/editorial.md`
-- `_referencias/guia-redaccion.md`
+- `_reglas/contexto.md`
+- `_reglas/editorial.md`
+- `_reglas/guia-redaccion.md`
 
 ## Flujo
 
@@ -27,7 +27,7 @@ Antes de trabajar, leer en `bookgy/editor`:
 7. Definir una única idea editorial principal.
 8. Determinar `ámbito`, usando `General` por defecto.
 9. Calcular el siguiente `semilla_id` disponible del mes en `entradas-editor/`.
-10. Crear `entradas-editor/AAAA-MM-NNN-contenido/semilla.md` siguiendo la estructura de `_referencias/editorial.md`.
+10. Crear `entradas-editor/AAAA-MM-NNN-contenido/semilla.md` siguiendo la estructura de `_reglas/editorial.md`.
 
 ## Numeración
 
