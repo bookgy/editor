@@ -18,9 +18,9 @@ No es obligatorio crear un blog para poder generar contenidos de otros canales.
 Leer en `bookgy/editor`:
 
 - la `semilla.md` del tema dentro de `entradas-editor/`;
-- `_referencias/contexto.md`;
-- `_referencias/editorial.md`;
-- `_referencias/guia-redaccion.md`.
+- `_reglas/contexto.md`;
+- `_reglas/editorial.md`;
+- `_reglas/guia-redaccion.md`.
 
 Consultar `_fuentes/oraculo.md` solo si es necesario volver a comprobar un hecho.
 
