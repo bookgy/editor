@@ -12,17 +12,20 @@ Crear `newsletter.md` a partir de la semilla de una edición.
 Leer:
 
 - `newsletters/AAAA-MM-NNN/semilla.md`;
-- las `semilla.md` y `entrada.md` de todas las entradas seleccionadas;
+- las `semilla.md` de todas las entradas seleccionadas;
+- sus `blog.md` cuando existan y aporten contexto útil;
 - `_referencias/contexto.md`;
 - `_referencias/editorial.md`;
 - `_referencias/guia-redaccion.md`.
+
+El blog es una referencia opcional. Una entrada puede formar parte de una newsletter aunque no tenga `blog.md`.
 
 ## Flujo
 
 1. Respetar objetivo, protagonista, orden y CTA definidos en la semilla.
 2. Crear una apertura breve centrada en el valor de la edición.
 3. Dar mayor espacio a la historia protagonista.
-4. Resumir y adaptar las historias secundarias sin pegarlas literalmente desde `entrada.md`.
+4. Resumir y adaptar las historias secundarias desde su semilla y, si existe, su blog, sin copiar literalmente `blog.md`.
 5. Mantener una lectura rápida y una jerarquía clara.
 6. Crear CTA principal y secundarios solo cuando sean útiles.
 7. Redactar asunto y preheader después de cerrar el cuerpo.
