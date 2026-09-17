@@ -12,10 +12,12 @@ Crear una pieza audiovisual pensada específicamente para TikTok.
 Leer:
 
 - `semilla.md`;
-- `entrada.md` si existe;
+- `blog.md` si existe;
 - los `tiktok-NNN.md` existentes;
 - `_referencias/contexto.md`;
 - `_referencias/guia-redaccion.md`.
+
+El blog es una referencia opcional. TikTok puede crearse directamente desde la semilla aunque `blog.md` no exista.
 
 ## Flujo
 
@@ -40,10 +42,11 @@ Leer:
 
 ## Reglas
 
-- Pensar en vídeo y ritmo, no en adaptar literalmente un post escrito.
+- Pensar en vídeo y ritmo, no en adaptar literalmente un texto escrito.
 - Mantener una única idea principal.
 - No inventar demostraciones, pantallas o comportamientos del producto.
 - No mencionar información técnica interna.
+- No resumir mecánicamente `blog.md`: la pieza deriva de la semilla y debe adaptarse de forma nativa a TikTok.
 
 ## Metadatos
 
