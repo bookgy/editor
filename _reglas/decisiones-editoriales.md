@@ -27,7 +27,7 @@ No utilizar un ZIP, documento local o memoria externa como fuente canónica cuan
 
 - fecha: AAAA-MM-DD
 - estado: vigente | sustituida
-- alcance: global | canal | skill | semilla | contenido
+- alcance: global | canal | agente | skill | semilla | contenido
 - afecta a:
   - `ruta/del/archivo`
 - decisión:
@@ -236,3 +236,45 @@ El registro resume la decisión. La regla operativa completa debe vivir también
   - Retirar `_referencias/` una vez comprobada la migración.
 - notas:
   - Las rutas de decisiones anteriores se han normalizado a `_reglas/` para evitar referencias internas rotas; no cambia el contenido sustantivo de esas decisiones.
+
+
+## DEC-2026-09-010 — Se incorpora la capa de agentes
+
+- fecha: 2026-09-18
+- estado: vigente
+- alcance: global
+- afecta a:
+  - `README.md`
+  - `_agentes/README.md`
+  - `_agentes/_radar-externo.md`
+  - `_agentes/_radar-interno.md`
+  - `_agentes/00_planifica-contenido.md`
+  - `_agentes/01_crea-semilla.md`
+  - `_agentes/02_desarrolla-semilla.md`
+  - `_agentes/03_revisa-contenido.md`
+  - `_agentes/04_crea-semilla-newsletter.md`
+  - `_agentes/05_desarrolla-semilla-newsletter.md`
+  - `_agentes/06_revisa-contenido-newsletter.md`
+  - `_agentes/07_audita-editorial.md`
+  - `_skills/README.md`
+  - `_reglas/editorial.md`
+  - `_reglas/decisiones-editoriales.md`
+- decisión:
+  - Crear `_agentes/` como capa de orquestación entre la intención del usuario y las Skills especializadas.
+  - Los agentes determinan qué trabajo debe realizarse y qué Skills utilizar; no deben duplicar las instrucciones detalladas de las Skills.
+  - Mantener dos agentes transversales sin numeración: `_radar-externo` para investigación del entorno y `_radar-interno` para auditoría estructural del proyecto.
+  - `_radar-interno` debe ser genérico y portable a otros proyectos, descubriendo su estructura en lugar de imponer la de Agendic.
+  - El flujo editorial numerado queda definido desde `00_planifica-contenido` hasta `07_audita-editorial`.
+  - La antigua función prevista para `busca-ideas` queda integrada en `00_planifica-contenido`; no se crea un agente independiente para buscar ideas.
+  - `00_planifica-contenido` debe construir calendarios teniendo en cuenta estacionalidad, época del año, eventos, campañas, actualidad relevante, contenidos existentes y huecos editoriales.
+- aplicación:
+  - Crear un README propio de agentes con jerarquía, invocación flexible, encadenamiento y principios comunes.
+  - Permitir invocación por nombre o mediante lenguaje natural, sin sintaxis rígida.
+  - Mantener los radares en modo de análisis y propuesta por defecto; solo modifican el proyecto cuando el usuario lo pide.
+  - Permitir que los agentes numerados se encadenen cuando una petición incluya varias fases, sin ejecutar fases adicionales por rutina.
+  - Actualizar el README raíz para incorporar `_agentes/` a la arquitectura del Editor.
+  - Actualizar `_skills/README.md` para definir las Skills como capa de ejecución especializada.
+  - Incorporar al criterio editorial la planificación temporal y el descubrimiento de oportunidades.
+- notas:
+  - No se crea `01_busca-ideas`: sus funciones forman parte de `00_planifica-contenido`.
+  - Tampoco se crea un agente específico `reutiliza-contenido`; la reutilización se contempla dentro de planificación y auditoría editorial.
